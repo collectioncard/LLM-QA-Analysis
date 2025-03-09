@@ -1,0 +1,39 @@
+Forest 0 at (10, 15) with width 10 and height 5.
+A single line fence at (6, 16).
+A closed fenced-in area, with fences at (6, 8) with width 3 and height 6.
+A mushroom at (1, 19).
+A closed fenced-in area, with fences at (1, 8) with width 3 and height 4.
+Forest 1 at (9, 0) with width 11 and height 7.
+Path connecting points: (7, 8) (2, 11) 
+
+Relationships:
+
+Relationships for Forest 0 at (10, 15):
+- is diagonally below and to the right of Single Fence Line at (6, 16) (distance: 4.12 tiles).
+- is diagonally below and to the right of Closed Fence at (6, 8) (distance: 8.06 tiles).
+- is diagonally below and to the right of Closed Fence at (1, 8) (distance: 11.40 tiles).
+- is below Forest 1 at (9, 0) (distance: 15.03 tiles).
+
+Relationships for Single Fence Line at (6, 16):
+- is diagonally above and to the left of Forest 0 at (10, 15) (distance: 4.12 tiles).
+- is below Closed Fence at (6, 8) (distance: 8.00 tiles).
+- is diagonally below and to the right of Closed Fence at (1, 8) (distance: 9.43 tiles).
+- is diagonally below and to the left of Forest 1 at (9, 0) (distance: 16.28 tiles).
+
+Relationships for Closed Fence at (6, 8):
+- is diagonally above and to the left of Forest 0 at (10, 15) (distance: 8.06 tiles).
+- is above Single Fence Line at (6, 16) (distance: 8.00 tiles).
+- is diagonally below and to the right of Closed Fence at (1, 8) (distance: 5.00 tiles).
+- is diagonally below and to the left of Forest 1 at (9, 0) (distance: 8.54 tiles).
+
+Relationships for Closed Fence at (1, 8):
+- is diagonally above and to the left of Forest 0 at (10, 15) (distance: 11.40 tiles).
+- is diagonally above and to the left of Single Fence Line at (6, 16) (distance: 9.43 tiles).
+- is diagonally above and to the left of Closed Fence at (6, 8) (distance: 5.00 tiles).
+- is diagonally below and to the left of Forest 1 at (9, 0) (distance: 11.31 tiles).
+
+Relationships for Forest 1 at (9, 0):
+- is above Forest 0 at (10, 15) (distance: 15.03 tiles).
+- is diagonally above and to the right of Single Fence Line at (6, 16) (distance: 16.28 tiles).
+- is diagonally above and to the right of Closed Fence at (6, 8) (distance: 8.54 tiles).
+- is diagonally above and to the right of Closed Fence at (1, 8) (distance: 11.31 tiles).

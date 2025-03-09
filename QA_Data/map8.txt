@@ -1,0 +1,27 @@
+A closed fenced-in area, with fences at (13, 11) with width 6 and height 3.
+Forest 0 at (12, 0) with width 8 and height 8.
+A random L-shaped fence at (4, 16) with width 7 and height 3.
+House 0 is a brown House with 4 windows at (2, 1) with width 8 and height 5.
+Path connecting points: (14, 11) (3, 5) 
+
+Relationships:
+
+Relationships for Closed Fence at (13, 11):
+- is below Forest 0 at (12, 0) (distance: 11.05 tiles).
+- is diagonally above and to the right of L-shaped Fence at (4, 16) (distance: 10.30 tiles).
+- is diagonally below and to the right of House 0 at (2, 1) (distance: 14.87 tiles).
+
+Relationships for Forest 0 at (12, 0):
+- is above Closed Fence at (13, 11) (distance: 11.05 tiles).
+- is diagonally above and to the right of L-shaped Fence at (4, 16) (distance: 17.89 tiles).
+- is to the right of House 0 at (2, 1) (distance: 10.05 tiles).
+
+Relationships for L-shaped Fence at (4, 16):
+- is diagonally below and to the left of Closed Fence at (13, 11) (distance: 10.30 tiles).
+- is diagonally below and to the left of Forest 0 at (12, 0) (distance: 17.89 tiles).
+- is diagonally below and to the right of House 0 at (2, 1) (distance: 15.13 tiles).
+
+Relationships for House 0 at (2, 1):
+- is diagonally above and to the left of Closed Fence at (13, 11) (distance: 14.87 tiles).
+- is to the left of Forest 0 at (12, 0) (distance: 10.05 tiles).
+- is diagonally above and to the left of L-shaped Fence at (4, 16) (distance: 15.13 tiles).

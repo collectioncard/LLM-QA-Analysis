@@ -1,0 +1,23 @@
+Question,Answer,Distractors
+What is the distance between House 0 and the Closed Fence?,15.23 tiles,14.04 tiles; 17.00 tiles; 17.89 tiles
+Which house is located further downwards on the map?,House 1,House 0; Closed Fence; Forest 0
+How many windows does House 1 have?,1 window,4 windows; 3 windows; 2 windows
+Which structure is furthest to the right on the map?,House 1,House 0; Closed Fence; Forest 0
+What is the relative position of Forest 0 compared to Closed Fence?,Diagonally above and to the left,Diagonally below and to the right; To the right; To the left
+Which object is directly to the left of House 1?,Forest 0,Closed Fence; House 0; Nothing
+What is the distance between House 0 and Forest 0?,11.66 tiles,15.23 tiles; 17.00 tiles; 9.22 tiles
+How is House 0 identified on the map?,Gray House with 4 windows,Brown House with 1 window; Closed Fence with width 3; Forest with width 8
+How does Forest 0 relate spatially to House 1?,To the left,To the right; Above; Below
+What is the width and height of the Closed Fence?,"3, 3","4, 5; 8, 8; 3, 4"
+What is the diagonal distance from House 1 to Closed Fence?,14.04 tiles,17.00 tiles; 9.22 tiles; 15.23 tiles
+Which object is diagonally below House 0?,Closed Fence,House 0; Forest 0; Nothing
+"What is the name of the forest located at (7, 0)?",Forest 0,House 1; Closed Fence; House 0
+What is the height of House 0?,5,4; 3; 8
+Which structure has the highest elevation on the map?,Forest 0,House 1; Closed Fence; Forest 2
+What is the total count of windows in House 0 and House 1 combined?,5 windows,4 windows; 3 windows; 1 window
+What coordinate is House 0 located at?,"(1, 10)","(16, 2); (7, 0); (15, 16)"
+Is there any house located directly above Forest 0?,"No, there is none","Yes, House 0; Yes, House 1; Yes, Closed Fence"
+"Which object is located at (16, 2)?",House 1,Forest 0; House 0; Closed Fence
+How wide is Forest 0?,8,3; 4; 5
+"According to distances, which object is closest to the Closed Fence?",House 1,Forest 0; House 0; Nothing
+Which house has fewer windows?,House 1,House 0; Closed Fence; Forest 0

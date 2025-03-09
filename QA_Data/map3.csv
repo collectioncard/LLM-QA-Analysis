@@ -1,0 +1,22 @@
+Question,Answer,Distractors
+"Which object is located at coordinates (18, 15)?",A green tree,A wheelbarrow; A beehive; A mushroom
+"What is the absolute distance between the green tree at (18, 15) and the wheelbarrow at (17, 16)?",1.41 tiles,2 tiles; 1 tile; 1.5 tiles
+"Which object is located directly above the closed fenced-in area at (7, 12)?","L-shaped Fence at (8, 1)","House 0; Green tree at (13, 19); Mushroom"
+How many windows does House 0 have?,1 window,2 windows; 3 windows; 4 windows
+"What is the distance from House 0 at (2, 3) to the L-shaped Fence at (8, 1)?",6.32 tiles,10.30 tiles; 11.05 tiles; 3 tiles
+Which house is diagonally below and to the left of the L-shaped Fence?,House 0,"Fenced-in area; Beehive at (19, 9); Wheelbarrow at (16, 17)"
+"What object is located at (18, 0)?",A beehive,A closed fenced-in area; A green tree; A wheelbarrow
+Identify the object that is diagonally above and to the right of the closed fence.,L-shaped Fence,Mushroom; Beehive; Wheelbarrow
+"What is situated at (18, 8)?",A mushroom,A beehive; A green tree; Another wheelbarrow
+"What is the absolute distance between the green tree at (13, 19) and the beehive at (19, 9)?",11.66 tiles,5 tiles; 10 tiles; 2 tiles
+Which two objects are closest to each other?,"Wheelbarrow at (17, 16) and Wheelbarrow at (16, 17)","House 0 and L-shaped Fence; Green tree at (18, 15) and beehive at (18, 0); Closed fenced-in area and House 0"
+"What is to the left of the wheelbarrow at (16, 17)?",Nothing,Closed fenced-in area; Green tree; Beehive
+Which object is farthest south on the map?,"Green tree at (13, 19)","Green tree at (13, 19); House 0; L-shaped Fence"
+How many length tiles does the closed fenced-in area cover horizontally?,4 tiles,3 tiles; 5 tiles; 6 tiles
+"Which object is located at (8, 12)?",Nothing,"Closed fenced-in area; Beehive at (19, 9); House 0"
+"Which object is at coordinates (19, 9)?",Beehive,Closed fenced-in area; Mushroom; Another green tree
+"What is below the green tree at (18, 15)?",Nothing,Wheelbarrow; L-shaped Fence; Closed fenced-in area
+What is the height of House 0?,5 tiles,4 tiles; 3 tiles; 6 tiles
+Which object is diagonally above the closed fenced-in area?,L-shaped Fence,"House 0; Beehive at (19, 9); Wheelbarrow at (16, 17)"
+"What is to the right of the beehive at (18, 0)?",Nothing,Wheelbarrow; Green tree; Closed fenced-in area
+"What is located directly north of the wheelbarrow at (16, 17)?",Nothing,Closed fenced-in area; Beehive; Another wheelbarrow

@@ -1,0 +1,21 @@
+Question,Answer,Distractors
+Which object is to the right of House 0?,"Closed Fence at (13, 16)","Forest 0; Closed Fence at (1, 1); Closed Fence at (14, 8)"
+"What is the distance between Closed Fence at (13, 16) and House 0 at (2, 16)?",11.00 tiles,14.42 tiles; 9.22 tiles; 8.06 tiles
+Which object has only one window?,House 0,"Closed Fence at (13, 16); Forest 0; Closed Fence at (1, 1)"
+What is the coordinate of the Closed Fence that is diagonally below and to the right of Forest 0?,"Closed Fence at (13, 16)","Closed Fence at (14, 8); House 0; Closed Fence at (1, 1)"
+"Which object is below Closed Fence at (1, 1)?",Forest 0,"House 0; Closed Fence at (14, 8); Closed Fence at (13, 16)"
+"What is the horizontal distance between House 0 and the Closed Fence at (14, 8)?",14.42 tiles,15.03 tiles; 11.00 tiles; 8.06 tiles
+Which Closed Fence is below House 0?,None,"Closed Fence at (1, 1); Closed Fence at (13, 16); Mushroom"
+"The distance between Forest 0 and Closed Fence at (1, 1) is approximately how many tiles?",6.08 tiles,9.22 tiles; 15.03 tiles; 19.21 tiles
+What is the area of House 0?,15 tiles,18 tiles; 20 tiles; 12 tiles
+Which Closed Fence is diagonally above House 0?,"Closed Fence at (14, 8)","Closed Fence at (1, 1); Closed Fence at (13, 16); Nothing"
+"What is the width of the Closed Fence at (14, 8)?",4,5; 6; 8
+"Which object is located at coordinate (0, 7)?",Forest 0,"House 0; Closed Fence at (1, 1); Closed Fence at (14, 8)"
+Which object is below Forest 0?,House 0,"Closed Fence at (14, 8); Closed Fence at (1, 1); Closed Fence at (13, 16)"
+"What is the distance from Closed Fence at (14, 8) to Closed Fence at (13, 16)?",8.06 tiles,11.00 tiles; 14.42 tiles; 15.81 tiles
+"How many tiles are between Forest 0 and Closed Fence at (14, 8)?",14.04 tiles,9.22 tiles; 11.00 tiles; 15.81 tiles
+"Which object is the furthest away from Closed Fence at (1, 1)?","Closed Fence at (13, 16)","House 0; Closed Fence at (14, 8); Forest 0"
+What object has a width of 5 and height of 3?,House 0,"Closed Fence at (1, 1); Forest 0; Closed Fence at (14, 8)"
+Which closed fenced-in area has dimensions of 6 by 3?,"Closed Fence at (13, 16)","Closed Fence at (1, 1); Closed Fence at (14, 8); Nothing"
+Which fenced area has the largest area?,"Closed Fence at (1, 1)","Closed Fence at (13, 16); Closed Fence at (14, 8); Nothing"
+"What is the relationship between House 0 and Closed Fence at (14, 8)?",Diagonally below and to the left,To the left; Above; Diagonally above and to the right

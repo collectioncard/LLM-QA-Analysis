@@ -1,0 +1,22 @@
+Question,Answer,Distractors
+Which house is directly above Forest 1?,House 0,House 1; House 2; Forest 0
+What is the absolute distance between Forest 0 and House 2?,13.42 tiles,7.21 tiles; 18.38 tiles; 10.05 tiles
+Which object is closest to House 1?,Forest 1,House 2; House 0; Forest 0
+What is the relative position of Forest 1 in relation to House 0?,Below,Above; To the left; To the right
+Which house has 3 windows?,House 1,House 0; House 2; Nothing
+What is the distance from Forest 2 to House 2?,7.07 tiles,11.40 tiles; 6.32 tiles; 10.05 tiles
+Which object is directly below House 0?,Forest 1,House 1; House 2; Forest 0
+Which forest is furthest from House 1?,Forest 0,Forest 2; Forest 1; Nothing
+What direction is House 2 from Forest 2?,To the right,Above; Below; To the left
+How many windows does House 1 have?,3 windows,1 window; 2 windows; Nothing
+Which house is closest to the top left corner of the map?,House 2,House 0; House 1; Forest 2
+What is the relative position of Forest 0 to Forest 2?,Diagonally below and to the right,Diagonally above and to the left; Directly above; Directly to the left
+Which house is directly below House 0?,Nothing,House 1; House 2; Forest 1
+"Which object can be identified at coordinates (13, 1)?",Orange tree,House 0; Forest 0; House 1
+Which forest has the smallest width?,Forest 1,Forest 0; Forest 2; Nothing
+What is the distance from House 1 to Forest 2?,8.06 tiles,10.05 tiles; 4.12 tiles; 6.32 tiles
+Which house is to the right of Forest 2?,House 2,House 0; House 1; Nothing
+"What is located at the coordinates (9, 7)?",House 0,Forest 1; Forest 0; House 2
+What direction does Forest 0 lie in relation to House 1?,Diagonally below and to the right,Directly above; Directly left; Nothing
+Which object is diagonally above House 1?,House 2,House 0; Forest 0; Forest 1
+What is the total distance between Forest 1 and Forest 2?,13.60 tiles,5.39 tiles; 10.05 tiles; 7.21 tiles

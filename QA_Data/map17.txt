@@ -1,0 +1,16 @@
+A closed fenced-in area, with fences at (16, 9) with width 3 and height 9.
+A single line fence at (7, 13).
+A target at (14, 0).
+A mushroom at (15, 5).
+A bucket empty at (14, 6).
+A mushroom at (0, 1).
+A orange tree at (3, 4).
+Path connecting points: (17, 9) 
+
+Relationships:
+
+Relationships for Closed Fence at (16, 9):
+- is diagonally above and to the right of Single Fence Line at (7, 13) (distance: 9.85 tiles).
+
+Relationships for Single Fence Line at (7, 13):
+- is diagonally below and to the left of Closed Fence at (16, 9) (distance: 9.85 tiles).

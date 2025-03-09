@@ -1,0 +1,19 @@
+Forest 0 at (6, 9) with width 6 and height 11.
+A mushroom at (2, 14).
+A closed fenced-in area, with fences at (9, 4) with width 10 and height 4.
+House 0 is a brown House with 1 windows at (1, 5) with width 4 and height 3.
+Path connecting points: (14, 7) (2, 7) 
+
+Relationships:
+
+Relationships for Forest 0 at (6, 9):
+- is diagonally below and to the left of Closed Fence at (9, 4) (distance: 5.83 tiles).
+- is diagonally below and to the right of House 0 at (1, 5) (distance: 6.40 tiles).
+
+Relationships for Closed Fence at (9, 4):
+- is diagonally above and to the right of Forest 0 at (6, 9) (distance: 5.83 tiles).
+- is to the right of House 0 at (1, 5) (distance: 8.06 tiles).
+
+Relationships for House 0 at (1, 5):
+- is diagonally above and to the left of Forest 0 at (6, 9) (distance: 6.40 tiles).
+- is to the left of Closed Fence at (9, 4) (distance: 8.06 tiles).

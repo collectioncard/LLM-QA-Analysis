@@ -1,0 +1,8 @@
+##YOU MUST RENAME THIS FILE TO .env and fill in the values for the keys. You can ignore any connections you dont want to use
+
+OPENAI_URL="https://api.openai.com/v1/"
+OPENAI_API_KEY="fillmein"
+
+LOCAL_URL="localURL"
+LOCAL_KEY="localKey"
+

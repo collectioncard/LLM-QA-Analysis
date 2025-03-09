@@ -1,0 +1,23 @@
+Question,Answer,Distractors
+What is the distance between Forest 0 and House 0?,6.40 tiles,5.83 tiles; 8.06 tiles; 4.00 tiles
+Which object is located to the right of House 0?,Closed Fence,Forest 0; Mushroom; Nothing
+At what coordinates is Mushroom located?,"(2, 14)","(1, 5); (6, 9); (9, 4)"
+How many windows does House 0 have?,1 window,2 windows; 3 windows; 0 windows
+Which object is located diagonally above and to the left of Forest 0?,House 0,Closed Fence; Mushroom; Nothing
+What is the width of the closed fenced-in area?,10,4; 6; 8
+What is the height of Forest 0?,11,3; 4; 10
+Which direction is Forest 0 in relation to the Closed Fence?,Diagonally below and to the left,Diagonally above and to the right; To the right; Nothing
+What is the relative position of Closed Fence compared to Forest 0?,Diagonally above and to the right,Diagonally below and to the left; To the left; Nothing
+"What direction does the path connecting points (14, 7) and (2, 7) lead to?",Left,Right; Up; Down
+Which object is diagonally below and to the right of House 0?,Forest 0,Closed Fence; Mushroom; Nothing
+What is the coordinate of Forest 0?,"(6, 9)","(12, 4); (6, 20); (7, 5)"
+What is the height of House 0?,3,4; 6; 11
+How far is House 0 from the Closed Fence?,8.06 tiles,5.83 tiles; 6.40 tiles; 7.00 tiles
+"Which object's coordinates are (9, 4)?",Closed Fence,House 0; Mushroom; Forest 0
+What color is House 0?,Brown,Red; Blue; Green
+What is the absolute distance between Forest 0 and Closed Fence?,5.83 tiles,4.00 tiles; 6.40 tiles; 8.06 tiles
+Which object is not mentioned to have a width?,Mushroom,Forest 0; Closed Fence; House 0
+What is the absolute distance between the Mushroom and House 0?,9.06 tiles,10.00 tiles; 3.00 tiles; 15.00 tiles
+How wide is House 0?,4,3; 5; 6
+"Which object is situated closest to (9, 5)?",Closed Fence,House 0; Mushroom; Nothing
+Which object can be identified to have fences?,Closed Fence,Forest 0; House 0; Mushroom

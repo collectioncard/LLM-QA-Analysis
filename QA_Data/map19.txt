@@ -1,0 +1,40 @@
+Forest 0 at (15, 12) with width 5 and height 8.
+House 0 is a gray House with 1 windows at (16, 7) with width 3 and height 4.
+Forest 1 at (15, 0) with width 5 and height 6.
+Forest 2 at (9, 0) with width 6 and height 8.
+Forest 3 at (0, 8) with width 9 and height 12.
+A target at (5, 2).
+A bucket empty at (5, 3).
+Path connecting points: (17, 10) 
+
+Relationships:
+
+Relationships for Forest 0 at (15, 12):
+- is below House 0 at (16, 7) (distance: 5.10 tiles).
+- is below Forest 1 at (15, 0) (distance: 12.00 tiles).
+- is diagonally below and to the right of Forest 2 at (9, 0) (distance: 13.42 tiles).
+- is diagonally below and to the right of Forest 3 at (0, 8) (distance: 15.52 tiles).
+
+Relationships for House 0 at (16, 7):
+- is above Forest 0 at (15, 12) (distance: 5.10 tiles).
+- is below Forest 1 at (15, 0) (distance: 7.07 tiles).
+- is diagonally below and to the right of Forest 2 at (9, 0) (distance: 9.90 tiles).
+- is diagonally above and to the right of Forest 3 at (0, 8) (distance: 16.03 tiles).
+
+Relationships for Forest 1 at (15, 0):
+- is above Forest 0 at (15, 12) (distance: 12.00 tiles).
+- is above House 0 at (16, 7) (distance: 7.07 tiles).
+- is diagonally above and to the right of Forest 2 at (9, 0) (distance: 6.00 tiles).
+- is diagonally above and to the right of Forest 3 at (0, 8) (distance: 17.00 tiles).
+
+Relationships for Forest 2 at (9, 0):
+- is diagonally above and to the left of Forest 0 at (15, 12) (distance: 13.42 tiles).
+- is diagonally above and to the left of House 0 at (16, 7) (distance: 9.90 tiles).
+- is diagonally below and to the left of Forest 1 at (15, 0) (distance: 6.00 tiles).
+- is diagonally above and to the right of Forest 3 at (0, 8) (distance: 12.04 tiles).
+
+Relationships for Forest 3 at (0, 8):
+- is diagonally above and to the left of Forest 0 at (15, 12) (distance: 15.52 tiles).
+- is diagonally below and to the left of House 0 at (16, 7) (distance: 16.03 tiles).
+- is diagonally below and to the left of Forest 1 at (15, 0) (distance: 17.00 tiles).
+- is diagonally below and to the left of Forest 2 at (9, 0) (distance: 12.04 tiles).

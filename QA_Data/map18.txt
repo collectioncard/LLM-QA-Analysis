@@ -1,0 +1,19 @@
+A log at (17, 12).
+Forest 0 at (11, 6) with width 9 and height 5.
+A single line fence at (8, 12).
+Forest 1 at (0, 0) with width 11 and height 11.
+
+
+Relationships:
+
+Relationships for Forest 0 at (11, 6):
+- is diagonally above and to the right of Single Fence Line at (8, 12) (distance: 6.71 tiles).
+- is diagonally below and to the right of Forest 1 at (0, 0) (distance: 12.53 tiles).
+
+Relationships for Single Fence Line at (8, 12):
+- is diagonally below and to the left of Forest 0 at (11, 6) (distance: 6.71 tiles).
+- is diagonally below and to the right of Forest 1 at (0, 0) (distance: 14.42 tiles).
+
+Relationships for Forest 1 at (0, 0):
+- is diagonally above and to the left of Forest 0 at (11, 6) (distance: 12.53 tiles).
+- is diagonally above and to the left of Single Fence Line at (8, 12) (distance: 14.42 tiles).

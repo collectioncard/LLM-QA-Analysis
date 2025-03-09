@@ -1,0 +1,22 @@
+Question,Answer,Distractors
+What is the absolute distance between Forest 0 and House 0?,5.10 tiles,12.00 tiles; 7.07 tiles; 9.90 tiles
+"Which object is located at the coordinates (15, 0)?",Forest 1,House 0; Forest 2; Forest 0
+What is the width of Forest 2?,6,5; 8; 7
+How many windows does House 0 have?,1,2; 3; 0
+What is the relationship of Forest 3 to House 0?,Diagonally below and to the left,Directly above; Diagonally above and to the right; Above
+"Which forest is closest to the target located at (5, 2)?",Forest 2,Forest 0; Forest 8; Forest 3
+What is the height of House 0?,4,3; 5; 6
+What is the distance from Forest 1 to House 0?,7.07 tiles,5.10 tiles; 12.00 tiles; 6.00 tiles
+Which forest is diagonally above and to the left of Forest 0?,Forest 2,Forest 1; Forest 3; House 0
+"What can be found at coordinates (5, 3)?",A bucket empty,A target; Forest 2; Forest 1
+Which forest is directly above House 0?,Forest 1,Forest 0; Forest 3; Forest 2
+Where can Forest 0 be found on the map?,"At (15, 12)","At (16, 7); At (15, 0); At (9, 0)"
+What is the width of Forest 1?,5,6; 4; 7
+What is the distance from House 0 to Forest 3?,16.03 tiles,15.52 tiles; 17.00 tiles; 5.10 tiles
+Which object is below Forest 1?,House 0,Forest 0; Forest 3; Forest 2
+What is the height of Forest 0?,8,6; 5; 4
+Where is the target located?,"At (5, 2)","At (5, 3); At (16, 7); At (15, 0)"
+Which forest is below Forest 0?,Forest 1,Forest 2; Forest 3; House 0
+How far is Forest 2 from House 0?,9.90 tiles,6.00 tiles; 7.07 tiles; 5.10 tiles
+What color is House 0?,Gray,Brown; Green; Blue
+What is the relationship of Forest 1 to Forest 2?,Diagonally above and to the right,Directly above; Diagonally below and to the left; Diagonally below and to the right

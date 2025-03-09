@@ -1,0 +1,22 @@
+Question,Answer,Distractors
+"What object is located below the L-shaped fence at (2, 4)?",Single Fence Line,Mushroom; Bag; Nothing
+"How far is the mushroom from the single line fence located at (1, 18)?",20.62 tiles,16.00 tiles; 14.04 tiles; 12.00 tiles; Nothing
+Which two objects have a diagonal spatial relationship with each other?,L-shaped Fence and Single Fence Line,Mushroom and Bag; L-shaped Fence and Mushroom; Single Fence Line and Bag
+"What is the absolute distance between the bag at (15, 6) and the mushroom at (17, 5)?",2.24 tiles,3.16 tiles; 4.00 tiles; 1.00 tile
+How many total objects are there in the given data set?,4,3; 5; 6
+What coordinates does the L-shaped fence start at?,"(2, 4)","(1, 18); (15, 6); (17, 5)"
+Which object is located at the highest y-coordinate?,Single Fence Line,Mushroom; Bag; L-shaped Fence
+How many tiles wide is the L-shaped fence?,5 tiles,3 tiles; 4 tiles; 2 tiles
+"Which object is the farthest away from the mushroom at (17, 5)?",Single Fence Line,L-shaped Fence; Bag; Nothing
+What is the y-coordinate of the bag?,6,5; 4; 18
+The L-shaped fence lies at which one of the following coordinates?,"(2, 4)","(1, 18); (15, 6); (17, 5)"
+What is the height of the L-shaped fence?,3 tiles,2 tiles; 1 tile; 4 tiles
+"Which object is to the right of the bag at (15, 6)?",Mushroom,L-shaped Fence; Single Fence Line; Nothing
+"How far is the single fence line at (1, 18) from the L-shaped fence at (2, 4)?",14.04 tiles,15.00 tiles; 12.00 tiles; Nothing
+What is the x-coordinate of the mushroom?,17,15; 13; 16
+Which objects are in the lower part of the map (closer to y=20)?,Single Fence Line,L-shaped Fence; Bag; Mushroom
+What is the total height of the area occupied by the L-shaped fence?,3 tiles,1 tile; 2 tiles; 4 tiles
+"How many tiles are between the bag at (15, 6) and the L-shaped fence at (2, 4) in both x and y directions combined?",13.15 tiles,22 tiles; 16 tiles; 18 tiles
+"Which object is at coordinates (1, 18)?",Single Fence Line,L-shaped Fence; Bag; Mushroom
+How far is the mushroom from the single line fence?,20.62 tiles,14.04 tiles; 3.16 tiles; 2 tiles
+Which item has coordinates that fall in the bottom right corner of the map?,None,Single Fence Line; Mushroom; L-shaped Fence

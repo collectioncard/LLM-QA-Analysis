@@ -1,0 +1,52 @@
+Forest 0 at (13, 13) with width 7 and height 7.
+Forest 1 at (8, 11) with width 5 and height 9.
+House 0 is a gray House with 1 windows at (9, 7) with width 3 and height 3.
+House 1 is a gray House with 3 windows at (1, 8) with width 6 and height 4.
+A orange tree at (13, 1).
+House 2 is a gray House with 2 windows at (7, 1) with width 3 and height 4.
+Forest 2 at (0, 0) with width 6 and height 6.
+Path connecting points: (10, 9) (5, 11) (8, 4) 
+
+Relationships:
+
+Relationships for Forest 0 at (13, 13):
+- is diagonally below and to the right of Forest 1 at (8, 11) (distance: 5.39 tiles).
+- is diagonally below and to the right of House 0 at (9, 7) (distance: 7.21 tiles).
+- is diagonally below and to the right of House 1 at (1, 8) (distance: 13.00 tiles).
+- is diagonally below and to the right of House 2 at (7, 1) (distance: 13.42 tiles).
+- is diagonally below and to the right of Forest 2 at (0, 0) (distance: 18.38 tiles).
+
+Relationships for Forest 1 at (8, 11):
+- is diagonally above and to the left of Forest 0 at (13, 13) (distance: 5.39 tiles).
+- is below House 0 at (9, 7) (distance: 4.12 tiles).
+- is diagonally below and to the right of House 1 at (1, 8) (distance: 7.62 tiles).
+- is diagonally below and to the right of House 2 at (7, 1) (distance: 10.05 tiles).
+- is diagonally below and to the right of Forest 2 at (0, 0) (distance: 13.60 tiles).
+
+Relationships for House 0 at (9, 7):
+- is diagonally above and to the left of Forest 0 at (13, 13) (distance: 7.21 tiles).
+- is above Forest 1 at (8, 11) (distance: 4.12 tiles).
+- is diagonally above and to the right of House 1 at (1, 8) (distance: 8.06 tiles).
+- is diagonally below and to the right of House 2 at (7, 1) (distance: 6.32 tiles).
+- is diagonally below and to the right of Forest 2 at (0, 0) (distance: 11.40 tiles).
+
+Relationships for House 1 at (1, 8):
+- is diagonally above and to the left of Forest 0 at (13, 13) (distance: 13.00 tiles).
+- is diagonally above and to the left of Forest 1 at (8, 11) (distance: 7.62 tiles).
+- is diagonally below and to the left of House 0 at (9, 7) (distance: 8.06 tiles).
+- is diagonally below and to the left of House 2 at (7, 1) (distance: 9.22 tiles).
+- is diagonally below and to the right of Forest 2 at (0, 0) (distance: 8.06 tiles).
+
+Relationships for House 2 at (7, 1):
+- is diagonally above and to the left of Forest 0 at (13, 13) (distance: 13.42 tiles).
+- is diagonally above and to the left of Forest 1 at (8, 11) (distance: 10.05 tiles).
+- is diagonally above and to the left of House 0 at (9, 7) (distance: 6.32 tiles).
+- is diagonally above and to the right of House 1 at (1, 8) (distance: 9.22 tiles).
+- is to the right of Forest 2 at (0, 0) (distance: 7.07 tiles).
+
+Relationships for Forest 2 at (0, 0):
+- is diagonally above and to the left of Forest 0 at (13, 13) (distance: 18.38 tiles).
+- is diagonally above and to the left of Forest 1 at (8, 11) (distance: 13.60 tiles).
+- is diagonally above and to the left of House 0 at (9, 7) (distance: 11.40 tiles).
+- is diagonally above and to the left of House 1 at (1, 8) (distance: 8.06 tiles).
+- is to the left of House 2 at (7, 1) (distance: 7.07 tiles).

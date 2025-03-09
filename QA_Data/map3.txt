@@ -1,0 +1,25 @@
+A green tree at (18, 15).
+A wheelbarrow at (17, 16).
+A wheelbarrow at (16, 17).
+A green tree at (13, 19).
+A beehive at (18, 0).
+A mushroom at (18, 8).
+A beehive at (19, 9).
+A closed fenced-in area, with fences at (7, 12) with width 4 and height 3.
+A random L-shaped fence at (8, 1) with width 3 and height 5.
+House 0 is a gray House with 1 windows at (2, 3) with width 3 and height 5.
+Path connecting points: (8, 12) (3, 7) 
+
+Relationships:
+
+Relationships for Closed Fence at (7, 12):
+- is below L-shaped Fence at (8, 1) (distance: 11.05 tiles).
+- is diagonally below and to the right of House 0 at (2, 3) (distance: 10.30 tiles).
+
+Relationships for L-shaped Fence at (8, 1):
+- is above Closed Fence at (7, 12) (distance: 11.05 tiles).
+- is diagonally above and to the right of House 0 at (2, 3) (distance: 6.32 tiles).
+
+Relationships for House 0 at (2, 3):
+- is diagonally above and to the left of Closed Fence at (7, 12) (distance: 10.30 tiles).
+- is diagonally below and to the left of L-shaped Fence at (8, 1) (distance: 6.32 tiles).

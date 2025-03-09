@@ -1,0 +1,38 @@
+Forest 0 at (10, 15) with width 10 and height 5.
+House 0 is a gray House with 3 windows at (1, 16) with width 8 and height 3.
+House 1 is a gray House with 2 windows at (14, 11) with width 5 and height 3.
+A single line fence at (2, 10).
+House 2 is a brown House with 4 windows at (15, 2) with width 4 and height 6.
+Path connecting points: (3, 18) (16, 13) (17, 7) 
+
+Relationships:
+
+Relationships for Forest 0 at (10, 15):
+- is to the right of House 0 at (1, 16) (distance: 9.06 tiles).
+- is diagonally below and to the left of House 1 at (14, 11) (distance: 5.66 tiles).
+- is diagonally below and to the right of Single Fence Line at (2, 10) (distance: 9.43 tiles).
+- is diagonally below and to the left of House 2 at (15, 2) (distance: 13.93 tiles).
+
+Relationships for House 0 at (1, 16):
+- is to the left of Forest 0 at (10, 15) (distance: 9.06 tiles).
+- is diagonally below and to the left of House 1 at (14, 11) (distance: 13.93 tiles).
+- is diagonally below and to the left of Single Fence Line at (2, 10) (distance: 6.08 tiles).
+- is diagonally below and to the left of House 2 at (15, 2) (distance: 19.80 tiles).
+
+Relationships for House 1 at (14, 11):
+- is diagonally above and to the right of Forest 0 at (10, 15) (distance: 5.66 tiles).
+- is diagonally above and to the right of House 0 at (1, 16) (distance: 13.93 tiles).
+- is diagonally below and to the right of Single Fence Line at (2, 10) (distance: 12.04 tiles).
+- is below House 2 at (15, 2) (distance: 9.06 tiles).
+
+Relationships for Single Fence Line at (2, 10):
+- is diagonally above and to the left of Forest 0 at (10, 15) (distance: 9.43 tiles).
+- is diagonally above and to the right of House 0 at (1, 16) (distance: 6.08 tiles).
+- is diagonally above and to the left of House 1 at (14, 11) (distance: 12.04 tiles).
+- is diagonally below and to the left of House 2 at (15, 2) (distance: 15.26 tiles).
+
+Relationships for House 2 at (15, 2):
+- is diagonally above and to the right of Forest 0 at (10, 15) (distance: 13.93 tiles).
+- is diagonally above and to the right of House 0 at (1, 16) (distance: 19.80 tiles).
+- is above House 1 at (14, 11) (distance: 9.06 tiles).
+- is diagonally above and to the right of Single Fence Line at (2, 10) (distance: 15.26 tiles).

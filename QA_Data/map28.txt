@@ -1,0 +1,13 @@
+A single line fence at (1, 18).
+A mushroom at (17, 5).
+A bag at (15, 6).
+A random L-shaped fence at (2, 4) with width 5 and height 3.
+
+
+Relationships:
+
+Relationships for Single Fence Line at (1, 18):
+- is diagonally below and to the right of L-shaped Fence at (2, 4) (distance: 14.04 tiles).
+
+Relationships for L-shaped Fence at (2, 4):
+- is diagonally above and to the left of Single Fence Line at (1, 18) (distance: 14.04 tiles).

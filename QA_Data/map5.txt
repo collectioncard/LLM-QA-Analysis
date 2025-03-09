@@ -1,0 +1,23 @@
+A beehive at (15, 12).
+A bucket empty at (12, 13).
+A bag at (18, 14).
+A target at (12, 19).
+A orange tree at (18, 8).
+A bag at (13, 9).
+A green tree at (18, 9).
+A bucket empty at (19, 10).
+Forest 0 at (10, 0) with width 10 and height 6.
+A bucket full at (0, 16).
+A bucket full at (3, 17).
+A log at (3, 13).
+A bag at (4, 13).
+Forest 1 at (0, 0) with width 10 and height 6.
+
+
+Relationships:
+
+Relationships for Forest 0 at (10, 0):
+- is to the right of Forest 1 at (0, 0) (distance: 10.00 tiles).
+
+Relationships for Forest 1 at (0, 0):
+- is to the left of Forest 0 at (10, 0) (distance: 10.00 tiles).

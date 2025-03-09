@@ -1,0 +1,21 @@
+Question,Answer,Distractors
+"What is the distance between the wheelbarrow at (1, 15) and the mushroom at (7, 15)?",6 tiles,5 tiles; 8 tiles; 10 tiles
+"Which object is positioned directly beside the mushroom at (1, 18)?","A bucket empty at (2, 18)","A mushroom at (7, 15); Forest 0; House 0"
+How many windows does House 0 have?,8 windows,6 windows; 4 windows; 10 windows
+"What type of tree is located at (7, 19)?",Green tree,Red tree; Pine tree; Oak tree
+How far is the Forest 0 from the House 0?,12.04 tiles,15 tiles; 10 tiles; 8 tiles
+In what direction is House 0 from Forest 0?,To the right,To the left; Above; Below
+Which coordinate contains a mushroom?,"(7, 15) and (1, 18)","(2, 18); (1, 15); (12, 1)"
+What is the width of House 0?,7 tiles,5 tiles; 10 tiles; 9 tiles
+What is the height of Forest 0?,10 tiles,8 tiles; 12 tiles; 6 tiles
+"Which object is to the right of the wheelbarrow at (1, 15)?","A mushroom at (7, 15)","A bucket empty at (2, 18); Forest 0; House 0"
+"What is located at coordinates (16, 8)?",Path connecting points,House 0; Forest 0; A green tree
+"What type of object is at (2, 18)?",Bucket empty,Wheelbarrow; Mushroom; Tree
+"Which mushroom is closest to the bucket at (2, 18)?","A mushroom at (1, 18)","A mushroom at (7, 15); Neither; Both"
+Which structure is directly to the left of House 0?,Forest 0,A green tree; A bucket empty; A mushroom
+"How many tiles above is the wheelbarrow from the bucket at (2, 18)?",3 tiles,2 tiles; 4 tiles; 5 tiles
+What color is House 0?,Brown,Red; Green; Grey
+"What is located at the lowest point of the map (20, 20)?",Nothing,Forest 0; House 0; A green tree
+Which object has the highest coordinates on the Y-axis?,"A green tree at (7, 19)","Mushroom at (1, 18); House 0; Bucket empty at (2, 18)"
+"What direction is the mushroom at (1, 18) from the wheelbarrow at (1, 15)?",Below,Below; Right; Left
+Which object is furthest to the left in the provided data?,"Forest 0 at (0, 0)","Bucket empty at (2, 18); House 0; Mushroom at (7, 15)"

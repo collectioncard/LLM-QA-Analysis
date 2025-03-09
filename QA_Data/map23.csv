@@ -1,0 +1,20 @@
+Question,Answer,Distractors
+What is the distance from the Closed Fence to Forest 0?,11.05 tiles,7 tiles; 5 tiles; 12 tiles
+How far is the Closed Fence from Forest 1?,16.28 tiles,11.05 tiles; 9.5 tiles; 14 tiles
+Which object is to the left of the Closed Fence?,Forest 0,Forest 1; Path; Nothing
+What is the height of the Closed Fence?,7,4; 9; 5
+At what coordinates is Forest 1 located?,"(0, 0)","(11, 12); (0, 11); (12, 18)"
+Which object is directly below Forest 1?,Forest 0,Closed Fence; Path; Nothing
+How far is Forest 0 from Forest 1?,11.00 tiles,16.28 tiles; 7.00 tiles; 11.05 tiles
+Which object is diagonally above the Closed Fence?,Forest 1,Forest 0; Nothing; Path
+At what coordinates is Forest 0 located?,"(0, 11)","(11, 12); (0, 0); (12, 18)"
+Which object is to the right of Forest 0?,Closed Fence,Forest 1; Path; Nothing
+How wide is Forest 0?,9,10; 4; 5
+How wide is the Closed Fence?,4,7; 9; 11
+Which object is below Forest 0?,Nothing,Closed Fence; Forest 1; Path
+What is the closest object to the Closed Fence?,Forest 0,Forest 1; Path; Nothing
+Which object has a height of 5?,Forest 1,Closed Fence; Forest 0; Nothing
+What is the property of the Closed Fence concerning Forest 0?,is to the right of,is below; is above; is to the left of
+What is the height of Forest 1?,5,9; 7; 11
+What is the width of Forest 1?,10,5; 9; 4
+Which objects have a distance relationship with each other?,Closed Fence and both Forests,Only Forest 0; Only Forest 1; Nothing

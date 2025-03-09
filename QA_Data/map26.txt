@@ -1,0 +1,51 @@
+Forest 0 at (12, 10) with width 8 and height 10.
+A closed fenced-in area, with fences at (13, 6) with width 6 and height 3.
+Forest 1 at (12, 0) with width 8 and height 5.
+A closed fenced-in area, with fences at (1, 15) with width 4 and height 4.
+Forest 2 at (0, 6) with width 6 and height 8.
+House 0 is a brown House with 2 windows at (1, 1) with width 5 and height 4.
+Path connecting points: (14, 8) (3, 18) (2, 4) 
+
+Relationships:
+
+Relationships for Forest 0 at (12, 10):
+- is below Closed Fence at (13, 6) (distance: 4.12 tiles).
+- is below Forest 1 at (12, 0) (distance: 10.00 tiles).
+- is diagonally above and to the right of Closed Fence at (1, 15) (distance: 12.08 tiles).
+- is diagonally below and to the right of Forest 2 at (0, 6) (distance: 12.65 tiles).
+- is diagonally below and to the right of House 0 at (1, 1) (distance: 14.21 tiles).
+
+Relationships for Closed Fence at (13, 6):
+- is above Forest 0 at (12, 10) (distance: 4.12 tiles).
+- is below Forest 1 at (12, 0) (distance: 6.08 tiles).
+- is diagonally above and to the right of Closed Fence at (1, 15) (distance: 15.00 tiles).
+- is diagonally above and to the right of Forest 2 at (0, 6) (distance: 13.00 tiles).
+- is diagonally below and to the right of House 0 at (1, 1) (distance: 13.00 tiles).
+
+Relationships for Forest 1 at (12, 0):
+- is above Forest 0 at (12, 10) (distance: 10.00 tiles).
+- is above Closed Fence at (13, 6) (distance: 6.08 tiles).
+- is diagonally above and to the right of Closed Fence at (1, 15) (distance: 18.60 tiles).
+- is diagonally above and to the right of Forest 2 at (0, 6) (distance: 13.42 tiles).
+- is to the right of House 0 at (1, 1) (distance: 11.05 tiles).
+
+Relationships for Closed Fence at (1, 15):
+- is diagonally below and to the left of Forest 0 at (12, 10) (distance: 12.08 tiles).
+- is diagonally below and to the left of Closed Fence at (13, 6) (distance: 15.00 tiles).
+- is diagonally below and to the left of Forest 1 at (12, 0) (distance: 18.60 tiles).
+- is below Forest 2 at (0, 6) (distance: 9.06 tiles).
+- is below House 0 at (1, 1) (distance: 14.00 tiles).
+
+Relationships for Forest 2 at (0, 6):
+- is diagonally above and to the left of Forest 0 at (12, 10) (distance: 12.65 tiles).
+- is diagonally below and to the left of Closed Fence at (13, 6) (distance: 13.00 tiles).
+- is diagonally below and to the left of Forest 1 at (12, 0) (distance: 13.42 tiles).
+- is above Closed Fence at (1, 15) (distance: 9.06 tiles).
+- is below House 0 at (1, 1) (distance: 5.10 tiles).
+
+Relationships for House 0 at (1, 1):
+- is diagonally above and to the left of Forest 0 at (12, 10) (distance: 14.21 tiles).
+- is diagonally above and to the left of Closed Fence at (13, 6) (distance: 13.00 tiles).
+- is to the left of Forest 1 at (12, 0) (distance: 11.05 tiles).
+- is above Closed Fence at (1, 15) (distance: 14.00 tiles).
+- is above Forest 2 at (0, 6) (distance: 5.10 tiles).

@@ -1,0 +1,55 @@
+A random L-shaped fence at (13, 15) with width 5 and height 4.
+A single line fence at (10, 8).
+House 0 is a brown House with 1 windows at (2, 16) with width 6 and height 3.
+A wheelbarrow at (6, 8).
+A wheelbarrow at (4, 11).
+A mushroom at (8, 12).
+A bucket full at (8, 14).
+Forest 0 at (12, 0) with width 8 and height 6.
+A closed fenced-in area, with fences at (8, 2) with width 3 and height 3.
+House 1 is a brown House with 1 windows at (2, 1) with width 4 and height 4.
+Path connecting points: (3, 18) (9, 4) (3, 4) 
+
+Relationships:
+
+Relationships for L-shaped Fence at (13, 15):
+- is diagonally below and to the right of Single Fence Line at (10, 8) (distance: 7.62 tiles).
+- is to the right of House 0 at (2, 16) (distance: 11.05 tiles).
+- is below Forest 0 at (12, 0) (distance: 15.03 tiles).
+- is diagonally below and to the right of Closed Fence at (8, 2) (distance: 13.93 tiles).
+- is diagonally below and to the right of House 1 at (2, 1) (distance: 17.80 tiles).
+
+Relationships for Single Fence Line at (10, 8):
+- is diagonally above and to the left of L-shaped Fence at (13, 15) (distance: 7.62 tiles).
+- is diagonally above and to the right of House 0 at (2, 16) (distance: 11.31 tiles).
+- is diagonally below and to the left of Forest 0 at (12, 0) (distance: 8.25 tiles).
+- is diagonally below and to the right of Closed Fence at (8, 2) (distance: 6.32 tiles).
+- is diagonally below and to the right of House 1 at (2, 1) (distance: 10.63 tiles).
+
+Relationships for House 0 at (2, 16):
+- is to the left of L-shaped Fence at (13, 15) (distance: 11.05 tiles).
+- is diagonally below and to the left of Single Fence Line at (10, 8) (distance: 11.31 tiles).
+- is diagonally below and to the left of Forest 0 at (12, 0) (distance: 18.87 tiles).
+- is diagonally below and to the left of Closed Fence at (8, 2) (distance: 15.23 tiles).
+- is diagonally below and to the right of House 1 at (2, 1) (distance: 15.00 tiles).
+
+Relationships for Forest 0 at (12, 0):
+- is above L-shaped Fence at (13, 15) (distance: 15.03 tiles).
+- is diagonally above and to the right of Single Fence Line at (10, 8) (distance: 8.25 tiles).
+- is diagonally above and to the right of House 0 at (2, 16) (distance: 18.87 tiles).
+- is to the right of Closed Fence at (8, 2) (distance: 4.47 tiles).
+- is to the right of House 1 at (2, 1) (distance: 10.05 tiles).
+
+Relationships for Closed Fence at (8, 2):
+- is diagonally above and to the left of L-shaped Fence at (13, 15) (distance: 13.93 tiles).
+- is diagonally above and to the left of Single Fence Line at (10, 8) (distance: 6.32 tiles).
+- is diagonally above and to the right of House 0 at (2, 16) (distance: 15.23 tiles).
+- is to the left of Forest 0 at (12, 0) (distance: 4.47 tiles).
+- is to the right of House 1 at (2, 1) (distance: 6.08 tiles).
+
+Relationships for House 1 at (2, 1):
+- is diagonally above and to the left of L-shaped Fence at (13, 15) (distance: 17.80 tiles).
+- is diagonally above and to the left of Single Fence Line at (10, 8) (distance: 10.63 tiles).
+- is diagonally above and to the left of House 0 at (2, 16) (distance: 15.00 tiles).
+- is to the left of Forest 0 at (12, 0) (distance: 10.05 tiles).
+- is to the left of Closed Fence at (8, 2) (distance: 6.08 tiles).

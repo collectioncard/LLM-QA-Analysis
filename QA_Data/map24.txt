@@ -1,0 +1,16 @@
+A wheelbarrow at (1, 15).
+A mushroom at (7, 15).
+A mushroom at (1, 18).
+A bucket empty at (2, 18).
+A green tree at (7, 19).
+House 0 is a brown House with 8 windows at (12, 1) with width 7 and height 8.
+Forest 0 at (0, 0) with width 10 and height 10.
+Path connecting points: (16, 8) 
+
+Relationships:
+
+Relationships for House 0 at (12, 1):
+- is to the right of Forest 0 at (0, 0) (distance: 12.04 tiles).
+
+Relationships for Forest 0 at (0, 0):
+- is to the left of House 0 at (12, 1) (distance: 12.04 tiles).

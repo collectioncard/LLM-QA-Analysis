@@ -1,0 +1,21 @@
+Question,Answer,Distractors
+"Which object is diagonally below and to the right of House 0 at (3, 9)?","Closed Fence at (12, 14)","Forest 0 at (7, 0); Closed Fence at (1, 1); Mushroom at (4, 17)"
+"What is the distance between the Closed Fence at (12, 14) and House 0 at (3, 9)?",10.30 tiles,14.87 tiles; 8.25 tiles; 9.85 tiles
+"Which object is directly to the right of Closed Fence at (1, 1)?","Forest 0 at (7, 0)","House 0 at (3, 9); Closed Fence at (12, 14); Mushroom at (4, 17)"
+How many windows does House 0 have?,2,1; 0; 3
+"What is the absolute distance between Forest 0 and Closed Fence at (12, 14)?",14.87 tiles,10.30 tiles; 8.25 tiles; 17.03 tiles
+"Which object is diagonally above and to the right of Forest 0 at (7, 0)?",Nothing,"Closed Fence at (12, 14); Closed Fence at (1, 1); Mushroom at (4, 17)"
+"What is the width of the closed fenced-in area at (12, 14)?",6,5; 4; 7
+"Is the target at (13, 11) located above the closed fenced-in area at (12, 14)?",Yes,No; Not enough information; There is no target
+"Which object is diagonally below and to the right of the Closed Fence at (1, 1)?","House 0 at (3, 9)","Forest 0 at (7, 0); Closed Fence at (12, 14); Nothing"
+What is the height of the Forest 0?,8,7; 5; 6
+"Which object has coordinates (4, 17)?",Mushroom,"House 0; Forest 0; Closed Fence at (1, 1)"
+"What is the distance between the Closed Fence at (1, 1) and House 0 at (3, 9)?",8.25 tiles,10.30 tiles; 17.03 tiles; 6.08 tiles
+"What does the Closed Fence at (12, 14) have in relation to the Forest 0?",Is diagonally below and to the right,Is to the right; Is to the left; Is above
+"Which closed fenced-in area is located at (1, 1)?","Closed Fence at (1, 1)","Closed Fence at (12, 14); House 0; Forest 0"
+"Which of the following is located at coordinates (15, 18)?",Nothing,"Closed Fence at (12, 14); Target; Mushroom"
+Which of the following houses is gray?,House 0,Nothing; Mushroom; Forest 0
+"What is the position of the target in relation to the Closed Fence at (12, 14)?",above,Diagonally above and to the left; Diagonally below and to the right; Inside
+"What is the height of the Closed Fence at (1, 1)?",6,5; 4; 8
+"Which house is located at (3, 9)?",House 0,"House 1; Forest 0; Closed Fence at (12, 14)"
+Is the mushroom higher than Forest 0?,No,Yes; Not enough information; It is to the right

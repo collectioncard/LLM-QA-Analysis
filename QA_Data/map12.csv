@@ -1,0 +1,22 @@
+Question,Answer,Distractors
+"Which house is located at (1, 14)?",House 1,House 0; House 2; Nothing
+What are the coordinates of House 0?,"(12, 13)","(1, 14); (8, 7); (13, 1)"
+How many windows does House 2 have?,2,5; 3; 4
+"What type of fence is located at (1, 8)?",Single Fence Line,L-shaped Fence; Wooden Fence; Nothing
+Which house is directly to the right of House 1?,House 0,House 2; Single Fence Line; Nothing
+What is the distance between House 0 and House 1?,11.05 tiles,12.04 tiles; 7.21 tiles; 9.90 tiles
+Which object is diagonally below House 2?,House 0,House 1; Single Fence Line; L-shaped Fence
+Which house is located further from the Single Fence Line: House 0 or House 2?,House 0,House 0; Same distance; Nothing
+What is the width of House 2?,4,5; 6; 3
+How far is House 1 from the L-shaped Fence?,17.69 tiles,12.04 tiles; 11.05 tiles; 9.90 tiles
+"Which fence is located at (13, 1)?",L-shaped Fence,Single Fence Line; House 0; Nothing
+What is the height of House 0?,6,4; 5; 3
+Which house is diagonally above House 1?,House 2,House 0; Single Fence Line; Nothing
+Which object is directly above House 1?,Single Fence Line,House 0; L-shaped Fence; House 2
+How many total windows do the two brown Houses have combined?,3,3; 2; 5
+"Which object is located at (8, 7)?",House 2,House 0; House 1; Nothing
+What is the distance from House 2 to the Single Fence Line?,7.07 tiles,6.00 tiles; 9.90 tiles; 11.05 tiles
+How many windows does House 0 have?,5,2; 4; 3
+Is House 1 closer to the L-shaped Fence or House 2?,House 2,L-shaped Fence; Same distance; Nothing
+Which house is below House 0?,Nothing,House 1; House 2; Single Fence Line
+What is the height of House 1?,3,4; 5; 6

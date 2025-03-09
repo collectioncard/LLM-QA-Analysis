@@ -1,0 +1,38 @@
+A closed fenced-in area, with fences at (13, 16) with width 6 and height 3.
+House 0 is a brown House with 1 windows at (2, 16) with width 5 and height 3.
+A closed fenced-in area, with fences at (14, 8) with width 4 and height 5.
+Forest 0 at (0, 7) with width 9 and height 7.
+A closed fenced-in area, with fences at (1, 1) with width 8 and height 5.
+Path connecting points: (17, 16) (5, 18) (15, 8) (6, 5) 
+
+Relationships:
+
+Relationships for Closed Fence at (13, 16):
+- is to the right of House 0 at (2, 16) (distance: 11.00 tiles).
+- is below Closed Fence at (14, 8) (distance: 8.06 tiles).
+- is diagonally below and to the right of Forest 0 at (0, 7) (distance: 15.81 tiles).
+- is diagonally below and to the right of Closed Fence at (1, 1) (distance: 19.21 tiles).
+
+Relationships for House 0 at (2, 16):
+- is to the left of Closed Fence at (13, 16) (distance: 11.00 tiles).
+- is diagonally below and to the left of Closed Fence at (14, 8) (distance: 14.42 tiles).
+- is below Forest 0 at (0, 7) (distance: 9.22 tiles).
+- is below Closed Fence at (1, 1) (distance: 15.03 tiles).
+
+Relationships for Closed Fence at (14, 8):
+- is above Closed Fence at (13, 16) (distance: 8.06 tiles).
+- is diagonally above and to the right of House 0 at (2, 16) (distance: 14.42 tiles).
+- is to the right of Forest 0 at (0, 7) (distance: 14.04 tiles).
+- is diagonally below and to the right of Closed Fence at (1, 1) (distance: 14.76 tiles).
+
+Relationships for Forest 0 at (0, 7):
+- is diagonally above and to the left of Closed Fence at (13, 16) (distance: 15.81 tiles).
+- is above House 0 at (2, 16) (distance: 9.22 tiles).
+- is to the left of Closed Fence at (14, 8) (distance: 14.04 tiles).
+- is below Closed Fence at (1, 1) (distance: 6.08 tiles).
+
+Relationships for Closed Fence at (1, 1):
+- is diagonally above and to the left of Closed Fence at (13, 16) (distance: 19.21 tiles).
+- is above House 0 at (2, 16) (distance: 15.03 tiles).
+- is diagonally above and to the left of Closed Fence at (14, 8) (distance: 14.76 tiles).
+- is above Forest 0 at (0, 7) (distance: 6.08 tiles).

@@ -1,0 +1,27 @@
+A single line fence at (14, 15).
+Forest 0 at (0, 10) with width 12 and height 10.
+A closed fenced-in area, with fences at (15, 6) with width 4 and height 3.
+Forest 1 at (0, 0) with width 12 and height 10.
+Path connecting points: (17, 6) 
+
+Relationships:
+
+Relationships for Single Fence Line at (14, 15):
+- is diagonally below and to the right of Forest 0 at (0, 10) (distance: 14.87 tiles).
+- is diagonally below and to the left of Closed Fence at (15, 6) (distance: 9.06 tiles).
+- is diagonally below and to the right of Forest 1 at (0, 0) (distance: 20.52 tiles).
+
+Relationships for Forest 0 at (0, 10):
+- is diagonally above and to the left of Single Fence Line at (14, 15) (distance: 14.87 tiles).
+- is diagonally below and to the left of Closed Fence at (15, 6) (distance: 15.52 tiles).
+- is below Forest 1 at (0, 0) (distance: 10.00 tiles).
+
+Relationships for Closed Fence at (15, 6):
+- is diagonally above and to the right of Single Fence Line at (14, 15) (distance: 9.06 tiles).
+- is diagonally above and to the right of Forest 0 at (0, 10) (distance: 15.52 tiles).
+- is diagonally below and to the right of Forest 1 at (0, 0) (distance: 16.16 tiles).
+
+Relationships for Forest 1 at (0, 0):
+- is diagonally above and to the left of Single Fence Line at (14, 15) (distance: 20.52 tiles).
+- is above Forest 0 at (0, 10) (distance: 10.00 tiles).
+- is diagonally above and to the left of Closed Fence at (15, 6) (distance: 16.16 tiles).

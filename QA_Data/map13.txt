@@ -1,0 +1,29 @@
+A closed fenced-in area, with fences at (12, 14) with width 6 and height 5.
+A mushroom at (4, 17).
+A target at (13, 11).
+House 0 is a gray House with 2 windows at (3, 9) with width 4 and height 3.
+Forest 0 at (7, 0) with width 7 and height 8.
+A closed fenced-in area, with fences at (1, 1) with width 4 and height 6.
+Path connecting points: (15, 18) (5, 11) (3, 6) 
+
+Relationships:
+
+Relationships for Closed Fence at (12, 14):
+- is diagonally below and to the right of House 0 at (3, 9) (distance: 10.30 tiles).
+- is diagonally below and to the right of Forest 0 at (7, 0) (distance: 14.87 tiles).
+- is diagonally below and to the right of Closed Fence at (1, 1) (distance: 17.03 tiles).
+
+Relationships for House 0 at (3, 9):
+- is diagonally above and to the left of Closed Fence at (12, 14) (distance: 10.30 tiles).
+- is diagonally below and to the left of Forest 0 at (7, 0) (distance: 9.85 tiles).
+- is diagonally below and to the right of Closed Fence at (1, 1) (distance: 8.25 tiles).
+
+Relationships for Forest 0 at (7, 0):
+- is diagonally above and to the left of Closed Fence at (12, 14) (distance: 14.87 tiles).
+- is diagonally above and to the right of House 0 at (3, 9) (distance: 9.85 tiles).
+- is to the right of Closed Fence at (1, 1) (distance: 6.08 tiles).
+
+Relationships for Closed Fence at (1, 1):
+- is diagonally above and to the left of Closed Fence at (12, 14) (distance: 17.03 tiles).
+- is diagonally above and to the left of House 0 at (3, 9) (distance: 8.25 tiles).
+- is to the left of Forest 0 at (7, 0) (distance: 6.08 tiles).

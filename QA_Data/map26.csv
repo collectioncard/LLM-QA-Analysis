@@ -1,0 +1,20 @@
+Question,Answer,Distractors
+What object is located directly above Forest 0?,"Closed Fence at (13, 6)","Forest 1 at (12, 0); Forest 2 at (0, 6); House 0 at (1, 1)"
+"How many tiles directly separate closed Fence at (1, 15) from House 0?",14.00 tiles,12.08 tiles; 4.00 tiles; 10.00 tiles
+Which object is located furthest to the right compared to House 0?,"Forest 1 at (12, 0)","Forest 2 at (0, 6); Closed Fence at (13, 6); Forest 0 at (12, 10)"
+How many windows does House 0 have?,2 windows,1 window; 3 windows; 4 windows
+"What is the distance of Forest 0 from Closed Fence at (13, 6)?",4.12 tiles,6.08 tiles; 10.00 tiles; 12.08 tiles
+"Which object is diagonally below House 0 at (1, 1)?","Forest 2 at (0, 6)","Closed Fence at (1, 15); Forest 0 at (12, 10); Forest 1 at (12, 0)"
+"What is the width of Closed Fence at (13, 6)?",6 tiles,4 tiles; 5 tiles; 3 tiles
+Which closed fenced area is diagonally below Forest 2?,"Closed Fence at (1, 15)","Closed Fence at (13, 6); No closed fenced area; Forest 1"
+"What is the distance from Forest 0 at (12, 10) to Forest 1 at (12, 0)?",10.00 tiles,4.12 tiles; 6.08 tiles; 18.60 tiles
+"How far is House 0 from Closed Fence at (13, 6)?",13.00 tiles,5.10 tiles; 14.00 tiles; 11.05 tiles
+"Which of the following is located diagonal above Closed Fence at (1, 15)?","Forest 2 at (0, 6)","Forest 1 at (12, 0); Forest 0 at (12, 10); House 0 at (1, 1)"
+What is the height of Forest 1?,5 tiles,4 tiles; 10 tiles; 8 tiles
+Which object is not below Forest 0?,"House 0 at (1, 1)","Forest 1 at (12, 0); Forest 2 at (0, 6); Closed Fence at (13, 6)"
+What is the relative position of Forest 2 to Forest 0?,Diagonally above and to the left,Above; Below; To the right
+What is the distance from Forest 1 to Forest 0?,10.00 tiles,4.12 tiles; 6.08 tiles; 12.65 tiles
+Which object is located the highest on the map?,"Forest 1 at (12, 0)","Forest 0 at (12, 10); Forest 2 at (0, 6); House 0 at (1, 1)"
+"How far is Forest 0 from House 0 at (1, 1)?",14.21 tiles,12.08 tiles; 5.10 tiles; 14.00 tiles
+What is to the left of Forest 1?,"House 0 at (1, 1)","Forest 0; Closed Fence at (1, 15); Forest 2"
+Which area is below House 0?,"Forest 2 at (0, 6)","Closed Fence at (1, 15); Forest 1 at (12, 0); Forest 0 at (12, 10)"

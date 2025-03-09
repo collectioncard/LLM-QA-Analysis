@@ -1,0 +1,33 @@
+Forest 0 at (10, 12) with width 10 and height 8.
+Forest 1 at (10, 6) with width 10 and height 6.
+Forest 2 at (10, 0) with width 10 and height 6.
+A log at (5, 5).
+A green tree at (1, 6).
+A bag at (9, 6).
+A target at (3, 7).
+A target at (2, 9).
+A bucket full at (9, 9).
+House 0 is a gray House with 0 windows at (1, 1) with width 3 and height 3.
+Path connecting points: (2, 3) 
+
+Relationships:
+
+Relationships for Forest 0 at (10, 12):
+- is below Forest 1 at (10, 6) (distance: 6.00 tiles).
+- is below Forest 2 at (10, 0) (distance: 12.00 tiles).
+- is diagonally below and to the right of House 0 at (1, 1) (distance: 14.21 tiles).
+
+Relationships for Forest 1 at (10, 6):
+- is above Forest 0 at (10, 12) (distance: 6.00 tiles).
+- is below Forest 2 at (10, 0) (distance: 6.00 tiles).
+- is diagonally below and to the right of House 0 at (1, 1) (distance: 10.30 tiles).
+
+Relationships for Forest 2 at (10, 0):
+- is above Forest 0 at (10, 12) (distance: 12.00 tiles).
+- is above Forest 1 at (10, 6) (distance: 6.00 tiles).
+- is to the right of House 0 at (1, 1) (distance: 9.06 tiles).
+
+Relationships for House 0 at (1, 1):
+- is diagonally above and to the left of Forest 0 at (10, 12) (distance: 14.21 tiles).
+- is diagonally above and to the left of Forest 1 at (10, 6) (distance: 10.30 tiles).
+- is to the left of Forest 2 at (10, 0) (distance: 9.06 tiles).

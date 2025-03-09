@@ -1,0 +1,22 @@
+Question,Answer,Distractors
+Which object is directly above House 1?,"Closed Fence at (15, 1)","Single Fence Line at (8, 8); Forest 0 at (5, 0); House 0 at (2, 12)"
+How many windows does House 0 have?,6 windows,0 windows; 3 windows; 5 windows
+What is the distance from House 0 to Single Fence Line?,7.21 tiles,15.23 tiles; 5.10 tiles; 9.90 tiles
+What is the relative position of House 0 compared to House 1?,House 0 is diagonally below and to the left of House 1,House 0 is directly above House 1; House 0 is to the right of House 1; House 0 is diagonally above and to the right of House 1
+"Which object is closest to the target at (11, 18)?",House 0,"Beehive at (19, 15); Log at (15, 19); Forest 1 at (0, 0)"
+What is the distance between the two wheelbarrows?,5.1 tiles,9.4 tiles; 4.2 tiles; 7.7 tiles
+"Which object is closer to the log at (15, 19)?","The beehive at (19, 15)",House 1; Forest 1; House 0
+What is the area of House 1?,9 tiles,18 tiles; 15 tiles; 12 tiles
+Which object is below the Single Fence Line?,target,House 0; Forest 0; Forest 1
+What is the relationship of Forest 0 to House 0?,Forest 0 is diagonally above and to the right of House 0,Forest 0 is below House 0; Forest 0 is to the left of House 0; Forest 0 is directly above House 0
+Which object is not adjacent to House 1?,Forest 1,Closed Fence; Single Fence Line; Forest 0
+What is the width of Closed Fence?,4 tiles,3 tiles; 6 tiles; 2 tiles
+Which object is furthest from the beehive?,Forest 1,House 0; House 1; Target
+Which of the following objects is above House 0?,Forest 1,House 1; Closed Fence; Single Fence Line
+What is the height of House 0?,7 tiles,6 tiles; 5 tiles; 4 tiles
+Which object is gone from the map?,Bucket full,Log; Target; Beehive
+"How far is the log from the wheelbarrow at (18, 15)?",5 tiles,7 tiles; 9 tiles; 11 tiles
+Which house is described as being gray?,House 0,House 1; Closed Fence; Forest 0
+"What can be found at (14, 11)?",A bag,A beehive; A target; A log
+How far is the Single Fence Line from House 0?,7.21 tiles,15.23 tiles; 8.25 tiles; 5.10 tiles
+What property does House 1 have?,0 windows,3 windows; 4 windows; 6 windows

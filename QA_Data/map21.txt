@@ -1,0 +1,27 @@
+A closed fenced-in area, with fences at (3, 10) with width 3 and height 9.
+House 0 is a gray House with 2 windows at (14, 2) with width 5 and height 4.
+Forest 0 at (7, 0) with width 6 and height 8.
+Forest 1 at (0, 0) with width 7 and height 8.
+Path connecting points: (4, 10) (17, 5) 
+
+Relationships:
+
+Relationships for Closed Fence at (3, 10):
+- is diagonally below and to the left of House 0 at (14, 2) (distance: 13.60 tiles).
+- is diagonally below and to the left of Forest 0 at (7, 0) (distance: 10.77 tiles).
+- is diagonally below and to the right of Forest 1 at (0, 0) (distance: 10.44 tiles).
+
+Relationships for House 0 at (14, 2):
+- is diagonally above and to the right of Closed Fence at (3, 10) (distance: 13.60 tiles).
+- is to the right of Forest 0 at (7, 0) (distance: 7.28 tiles).
+- is to the right of Forest 1 at (0, 0) (distance: 14.14 tiles).
+
+Relationships for Forest 0 at (7, 0):
+- is diagonally above and to the right of Closed Fence at (3, 10) (distance: 10.77 tiles).
+- is to the left of House 0 at (14, 2) (distance: 7.28 tiles).
+- is to the right of Forest 1 at (0, 0) (distance: 7.00 tiles).
+
+Relationships for Forest 1 at (0, 0):
+- is diagonally above and to the left of Closed Fence at (3, 10) (distance: 10.44 tiles).
+- is to the left of House 0 at (14, 2) (distance: 14.14 tiles).
+- is to the left of Forest 0 at (7, 0) (distance: 7.00 tiles).

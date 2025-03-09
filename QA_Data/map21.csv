@@ -1,0 +1,23 @@
+Question,Answer,Distractors
+Which object is diagonally below and to the left of House 0?,Closed Fence,Forest 0; Forest 1; Nothing
+What is the distance between the Closed Fence and Forest 1?,10.44 tiles,7.00 tiles; 13.60 tiles; 10.77 tiles
+How far is House 0 from Forest 0?,7.28 tiles,14.14 tiles; 10.77 tiles; 13.60 tiles
+Which object is to the right of Forest 0?,House 0,Closed Fence; Forest 1; Nothing
+"Which Forest is located at (7, 0)?",Forest 0,Forest 1; House 0; Closed Fence
+What are the coordinates of the Closed Fence?,"(3, 10)","(14, 2); (7, 0); (0, 0)"
+Which object has width 5 and height 4?,House 0,Closed Fence; Forest 0; Forest 1
+What is the absolute distance from the Closed Fence to Forest 0?,10.77 tiles,10.44 tiles; 13.60 tiles; 7.28 tiles
+Which object is diagonally above and to the right of Forest 0?,Nothing,Closed Fence; Forest 1; House 0
+"Which object is located at (0, 0)?",Forest 1,Forest 0; Closed Fence; House 0
+What is the height of the Closed Fence?,9 tiles,4 tiles; 8 tiles; 7 tiles
+Which object has two windows?,House 0,Closed Fence; Forest 0; Forest 1
+What is the width of Forest 1?,7 tiles,6 tiles; 5 tiles; 9 tiles
+Which object is located directly to the left of House 0?,Forest 0,Closed Fence; Forest 1; Nothing
+"From Closed Fence at (3, 10), which object is furthest away?",House 0,Forest 0; Forest 1; Nothing
+What is the height of Forest 0?,8 tiles,9 tiles; 4 tiles; 7 tiles
+Which Forest is located to the right of Forest 1?,Forest 0,House 0; Closed Fence; Nothing
+"What can be found at coordinates (14, 2)?",House 0,Forest 0; Closed Fence; Forest 1
+Which object is diagonally below and to the left of House 0?,Closed Fence,Forest 0; Forest 1; Nothing
+How many windows does House 0 have?,2,1; 3; 4
+"What is located at (16, 9)?",Nothing,House 0; Forest 0; Closed Fence
+How far is Forest 1 from House 0?,14.14 tiles,10.44 tiles; 7.00 tiles; Nothing

@@ -1,0 +1,22 @@
+Question,Answer,Distractors
+What is the absolute distance between the Closed Fence and the Forest 0?,11.05 tiles,10.05 tiles; 14.87 tiles; 17.89 tiles
+Which object is directly to the right of House 0?,Forest 0,Closed Fence; L-shaped Fence; Nothing
+At what coordinates is House 0 located?,"(2, 1)","(12, 0); (13, 11); (4, 16)"
+Which object is diagonally below and to the left of the Closed Fence?,L-shaped Fence,Forest 0; House 0; Nothing
+How many windows does House 0 have?,4,3; 5; 2
+What is the distance from House 0 to the L-shaped Fence?,15.13 tiles,14.87 tiles; 17.89 tiles; 10.30 tiles
+How wide is the Closed Fence?,6,3; 5; 8
+Which house is a brown house with 4 windows?,House 0,Closed Fence; Forest 0; L-shaped Fence
+What is the distance from L-shaped Fence to Forest 0?,17.89 tiles,10.05 tiles; 15.13 tiles; 11.05 tiles
+Which object lies diagonally above and to the left of the Closed Fence?,House 0,Forest 0; L-shaped Fence; Nothing
+What is the height of the Forest 0?,8,5; 3; 6
+What is the distance from Closed Fence to House 0?,14.87 tiles,11.05 tiles; 15.13 tiles; 10.30 tiles
+Which object is below House 0?,L-shaped Fence,Forest 0; L-shaped Fence; Nothing
+What is the width of House 0?,8,6; 5; 7
+At what coordinates is the L-shaped Fence located?,"(4, 16)","(12, 0); (13, 11); (2, 1)"
+Which object is diagonally below and to the right of House 0?,Closed Fence,Forest 0; L-shaped Fence; Nothing
+What is the height of the Closed Fence?,3,5; 6; 4
+"Which fence is located at (4, 16)?",L-shaped Fence,Closed Fence; Forest 0; House 0
+How far is the Closed Fence from Forest 0?,11.05 tiles,11.30 tiles; 12.00 tiles; 10.50 tiles
+What is the width of the L-shaped Fence?,7,6; 5; 8
+Which object is to the left of Forest 0?,House 0,Closed Fence; L-shaped Fence; Nothing
