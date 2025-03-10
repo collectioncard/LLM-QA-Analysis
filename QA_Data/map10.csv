@@ -1,7 +1,7 @@
 Question,Answer,Distractors
-"Which house is above the Closed Fence at (14, 15)?",House 0,House 1; House 2; House 3
+"Which house is the closest above the Closed Fence at (14, 15)?",House 0,House 1; House 2; House 3
 "What is the distance between the Closed Fence at (14, 15) and House 0 at (12, 10)?",5.39 tiles,8.25 tiles; 13.00 tiles; 6.71 tiles
-Which house has one window?,House 0,House 1; House 2; House 3
+Which of the following houses have only one window?,House 0,House 4; House 2; House 3
 "What is the distance from House 1 at (14, 2) to House 0 at (12, 10)?",8.25 tiles,5.39 tiles; 13.00 tiles; 12.53 tiles
 "Which closed fence is to the right of House 3 at (1, 16)?","Closed Fence at (14, 15)","Closed Fence at (1, 1); Closed Fence at (12, 10); Closed Fence at (14, 2)"
 "How far is House 2 at (6, 7) from House 0 at (12, 10)?",6.71 tiles,14.21 tiles; 9.43 tiles; 12.53 tiles
@@ -10,8 +10,8 @@ What is the property of House 1?,Gray and has 1 window,Brown with 1 window; Brow
 "Which house is diagonally below and to the right of House 2 at (6, 7)?",House 0,"House 1; House 3; Closed Fence at (1, 1)"
 "What is the distance from House 2 at (6, 7) to the Closed Fence at (1, 1)?",7.81 tiles,5.39 tiles; 19.10 tiles; 9.43 tiles
 How many windows does House 3 have?,0 windows,1 window; 2 windows; 3 windows
-"Which object is located closest to the Closed Fence at (14, 15)?",House 0,House 0; House 2; House 3
-"Which house is diagonally below and to the left of House 1 at (14, 2)?",House 2,House 0; House 3; Closed Fence
+"Which object is located closest to the Closed Fence at (14, 15)?",House 0,House 6; House 2; House 3
+"Which house is diagonally below and to the left of House 1 at (14, 2)?",House 2,House 0; House 6; Closed Fence
 "What is the distance from House 3 at (1, 16) to the Closed Fence at (14, 15)?",13.04 tiles,5.39 tiles; 19.10 tiles; 12.53 tiles
 What color is House 0?,Brown,Gray; Green; Red
 "Which house is diagonally below and to the left of House 0 at (12, 10)?",House 3,House 1; House 3; Closed Fence

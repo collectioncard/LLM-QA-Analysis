@@ -1,7 +1,7 @@
 A closed fenced-in area, with fences at (12, 14) with width 6 and height 5.
 A mushroom at (4, 17).
 A target at (13, 11).
-House 0 is a gray House with 2 windows at (3, 9) with width 4 and height 3.
+House 0 is a gray House with 1 windows at (3, 9) with width 4 and height 3.
 Forest 0 at (7, 0) with width 7 and height 8.
 A closed fenced-in area, with fences at (1, 1) with width 4 and height 6.
 Path connecting points: (15, 18) (5, 11) (3, 6) 

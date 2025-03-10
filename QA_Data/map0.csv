@@ -2,20 +2,20 @@ Question,Answer,Distractors
 "What is the distance between Forest 0 at (11, 5) and the Closed Fence at (13, 1)?",4.47 tiles,8.49 tiles; 12.81 tiles; 5.39 tiles
 "Which object is located directly above Forest 1 at (5, 11)?","Closed Fence at (6, 7)","Forest 0 at (11, 5); Closed Fence at (13, 1); Bucket full at (2, 13)"
 "How far is Forest 1 at (5, 11) from the Closed Fence at (6, 7)?",4.12 tiles,8.49 tiles; 12.81 tiles; 5.39 tiles
-"What object is diagonally above and to the right of the Closed Fence at (6, 7)?","Forest 0 at (11, 5)","Forest 1 at (5, 11); Closed Fence at (13, 1); Orange tree at (4, 17)"
+"What object is diagonally below and to the right of the Closed Fence at (6, 7)?","Forest 0 at (11, 5)","Forest 1 at (5, 11); Closed Fence at (13, 1); Nothing"
 "Which object is located diagonally below and to the left of Forest 0 at (11, 5)?","Forest 1 at (5, 11)","Closed Fence at (6, 7); Closed Fence at (13, 1); Bucket full at (2, 13)"
 "Where is the bucket located in relation to the target at (0, 10)?",Below,Above; Left; Right
-"What is the absolute distance between the bucket at (2, 13) and the log at (4, 14)?",2.24 tiles,1.0 tiles; 5.0 tiles; 3.0 tiles
+"What is the absolute distance between the bucket at (2, 13) and the log at (4, 14)?",2.24 tiles,1.45 tiles; 5.3 tiles; 3.0 tiles
 "Which of the following objects is located south of Forest 0 at (11, 5)?",Nothing,"Closed Fence at (6, 7); Forest 1 at (5, 11); Closed Fence at (13, 1)"
 "What is the width of the fenced-in area at (13,1)?",4,3; 5; 6
 "Which object is located directly to the left of the orange tree at (4, 17)?",Nothing,"Closed Fence at (6, 7); Bucket full at (2, 13); Forest 1 at (5, 11)"
 "What is the distance from Closed Fence at (13, 1) to Forest 1 at (5, 11)?",12.81 tiles,8.49 tiles; 4.12 tiles; 5.39 tiles
-"Which object is diagonally below the Closed Fence at (13, 1)?","Forest 1 at (5, 11)","Forest 0 at (11, 5); Closed Fence at (6, 7); Orange tree at (4, 17)"
+"Which object is diagonally below the Closed Fence at (13, 1)?","Forest 1 at (5, 11)","Forest 0 at (11, 5); Nothing; House 0 at (1,1)"
 "What is the distance between the target at (0, 10) and the bucket at (2, 13)?",3.61 tiles,2.24 tiles; 5.0 tiles; 4.0 tiles
 "What is located at the coordinates (6, 7)?",Closed Fence,Forest 1; Forest 0; Orange tree
 "How far is the log at (4, 14) from the orange tree at (4, 17)?",3 tiles,1 tile; 4 tiles; 2 tiles
-"Which object is located closest to the target at (0, 10)?","bucket full at (2,13)","Bucket full at (2, 13); Forest 0 at (11, 5); Log at (4, 14)"
-"How many tiles long is the width of the forest at (11, 5)?",9,6; 4; 3
-"What is the relationship between Forest 1 at (5, 11) and Closed Fence at (6, 7)?",Below,Above; Adjacent; Diagonally above
+"Which object is located closest to the target at (0, 10)?","bucket full at (2,13)","Forest 1 at (5, 11); Forest 0 at (11, 5); Log at (4, 14)"
+"How many tiles wide is forest at (11, 5)?",9,6; 4; 3
+"Where is Forest 1 at (5,11) compared to Closed Fence at (6,7)?",Below,Above; Adjacent; Diagonally above
 Which item is located furthest to the left on the map?,"Target at (0, 10)","Bucket full at (2, 13); Orange tree at (4, 17); Log at (4, 14)"
 "How far is Forest 1 at (5, 11) from the Closed Fence at (13, 1)?",12.81 tiles,8.49 tiles; 5.39 tiles; 4.12 tiles

@@ -5,7 +5,6 @@ A mushroom at (15, 5).
 A bucket empty at (14, 6).
 A mushroom at (0, 1).
 A orange tree at (3, 4).
-Path connecting points: (17, 9) 
 
 Relationships:
 

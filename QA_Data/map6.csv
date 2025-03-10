@@ -1,22 +1,22 @@
 Question,Answer,Distractors
 "Which object is diagonally below and to the left of the Closed Fence at (7, 16)?",Nothing,"Forest 0; House 0; Single Fence Line at (8, 7)"
 "What is the absolute distance between the House 0 and the Single Fence Line at (18, 14)?",15.26 tiles,11.18 tiles; 9.49 tiles; 12.21 tiles
-Which object has 0 windows?,House 0,"Closed Fence; Forest 0; Single Fence Line at (8, 7)"
+Which house object has 0 windows?,House 0,"Closed Fence; Forest 0; Single Fence Line at (8, 7)"
 Where is the bag located?,"(0, 16)","(10, 1); (8, 7); (7, 16)"
 Which object is directly below House 0?,"Single Fence Line at (8, 7)","Closed Fence; Forest 0; Single Fence Line at (18, 14)"
 "What is the relationship between Forest 0 and Closed Fence at (7, 16)?",Forest 0 is diagonally above and to the right of Closed Fence,Forest 0 is below Closed Fence; Forest 0 is directly to the left of Closed Fence; Nothing
-"Which object is closest to (15, 5)?",Forest 0,Closed Fence; House 0; Nothing
+"Which object is closest to (15, 6)?",Forest 0,Closed Fence; House 0; Nothing
 "What is the distance from the Closed Fence at (7, 16) to the Single Fence Line at (8, 7)?",9.06 tiles,11.18 tiles; 15.30 tiles; 13.60 tiles
-How can you identify Forest 0?,"It is at (15, 5) and has a width of 5 and height of 7","It is gray and has no windows; It is located at (0, 16); It is below Closed Fence"
-"What is the relationship for the Single Fence Line at (8, 7)?","It is diagonally above and to the left of the Single Fence Line at (18, 14)",It is below House 0; It is below Forest 0; Nothing
+How can you identify Forest 0?,"It is at (15, 5) and has a width of 5 and height of 7","It is at (15, 5) and has a width of 5 and height of 8; It is located at (0, 16); It is below Closed Fence"
+"What is a correct relationship for the Single Fence Line at (8, 7)?","It is diagonally above and to the left of the Single Fence Line at (18, 14)",It is directly above House 0; It is below Forest 0; Nothing
 What is the distance from the House 0 to the Forest 0?,6.40 tiles,13.60 tiles; 9.06 tiles; 15.30 tiles
-"Which object is diagonally below and to the right of the Single Fence Line at (8, 7)?",Forest 0,House 0; Forest 0; Nothing
-"What is the absolute distance between Forest 0 and Single Fence Line at (18, 14)?",9.49 tiles,12.21 tiles; 15.30 tiles; Nothing
+"Which object is diagonally below and to the right of the Single Fence Line at (8, 7)?",Bag,House 0; Forest 1; Nothing
+"What is the absolute distance between Forest 0 and Single Fence Line at (18, 14)?",9.49 tiles,12.21 tiles; 15.30 tiles; 1 tile
 "Which point connects with 8, 18 in the path?","(11, 3)","(15, 5); (8, 7); (7, 16)"
 How many tiles wide and high is the Closed Fence?,7 width and 3 height,3 width and 7 height; 5 width and 7 height; Nothing
-"Which object is above the Closed Fence at (7, 16)?","Single Fence Line at (8, 7)",Forest 0; House 0; Nothing
+"Which object is above the Closed Fence at (7, 16)?","Single Fence Line at (8, 7)",Beehive; Bucket; Nothing
 What is directly above House 0?,Nothing,"Closed Fence; Forest 0; Single Fence Line at (18, 14)"
 "Which of the following is below the Single Fence Line at (8, 7)?","Closed Fence at (7, 16)",Forest 0; House 0; Nothing
 "Where is Single Fence Line at (18, 14) located in relation to the Closed Fence at (7, 16)?",Diagonally above and to the right,Directly below; To the left; Nothing
-What can be determined about House 0?,It is gray and has no windows,It is pinned against the path; It is diagonally below Forest 0; Nothing
+What can be determined about House 0?,It is gray and has no windows,It is red and has 1 window; It is diagonally below Forest 0; Nothing
 "What is the distance between the Single Fence Line at (18, 14) and Single Fence Line at (8, 7)?",12.21 tiles,11.18 tiles; 6.32 tiles; Nothing

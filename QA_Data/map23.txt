@@ -1,7 +1,6 @@
 A closed fenced-in area, with fences at (11, 12) with width 4 and height 7.
 Forest 0 at (0, 11) with width 9 and height 9.
 Forest 1 at (0, 0) with width 10 and height 5.
-Path connecting points: (12, 18) 
 
 Relationships:
 

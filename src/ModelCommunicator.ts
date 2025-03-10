@@ -2,7 +2,7 @@ import OpenAI from "openai";
 import {LLM} from "./DataTypes";
 
 const modelPrompt: string = "You are an expert at answering questions about a tile based world. The user will provide you with a in depth description " +
-    "of a tile based game world and a multiple choice question about it. You are to take in the question and provided answers and choose the one that seems the most correct. " +
+    "of a tile based game world and a multiple choice question about it. You are to take in the question and provided answers and choose the one that seems the most correct. If a field is given a width or height, the coordinate is the top left corner of it." +
 "Respond with ONLY the letter of the answer you think is correct. NEVER EVER elaborate on your decision or provide reasoning." + "For each wrong answer you will be fined 100 dollars. ";
 
 export async function getLLMCompletion(Client: OpenAI, LLMInfo: LLM, question: string, imageBase64?: string): Promise<string> {

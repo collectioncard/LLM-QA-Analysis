@@ -18,5 +18,5 @@ What is the distance from House 1 to Forest 2?,8.06 tiles,10.05 tiles; 4.12 tile
 Which house is to the right of Forest 2?,House 2,House 0; House 1; Nothing
 "What is located at the coordinates (9, 7)?",House 0,Forest 1; Forest 0; House 2
 What direction does Forest 0 lie in relation to House 1?,Diagonally below and to the right,Directly above; Directly left; Nothing
-Which object is diagonally above House 1?,House 2,House 0; Forest 0; Forest 1
+Which object is diagonally above House 1?,House 2,Nothing; Forest 0; Forest 1
 What is the total distance between Forest 1 and Forest 2?,13.60 tiles,5.39 tiles; 10.05 tiles; 7.21 tiles

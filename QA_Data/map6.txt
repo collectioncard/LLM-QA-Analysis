@@ -29,7 +29,7 @@ Relationships for Forest 0 at (15, 5):
 Relationships for Single Fence Line at (8, 7):
 - is diagonally above and to the left of Single Fence Line at (18, 14) (distance: 12.21 tiles).
 - is above Closed Fence at (7, 16) (distance: 9.06 tiles).
-- is diagonally above and to the left of Forest 0 at (15, 5) (distance: 7.28 tiles).
+- is diagonally below and to the left of Forest 0 at (15, 5) (distance: 7.28 tiles).
 - is below House 0 at (10, 1) (distance: 6.32 tiles).
 
 Relationships for House 0 at (10, 1):

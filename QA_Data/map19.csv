@@ -7,7 +7,7 @@ What is the relationship of Forest 3 to House 0?,Diagonally below and to the lef
 "Which forest is closest to the target located at (5, 2)?",Forest 2,Forest 0; Forest 8; Forest 3
 What is the height of House 0?,4,3; 5; 6
 What is the distance from Forest 1 to House 0?,7.07 tiles,5.10 tiles; 12.00 tiles; 6.00 tiles
-Which forest is diagonally above and to the left of Forest 0?,Forest 2,Forest 1; Forest 3; House 0
+Which forest is the closest diagonally above and to the left of Forest 0?,Forest 2,Forest 1; Forest 3; House 0
 "What can be found at coordinates (5, 3)?",A bucket empty,A target; Forest 2; Forest 1
 Which forest is directly above House 0?,Forest 1,Forest 0; Forest 3; Forest 2
 Where can Forest 0 be found on the map?,"At (15, 12)","At (16, 7); At (15, 0); At (9, 0)"

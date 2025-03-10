@@ -1,4 +1,4 @@
-House 0 is a gray House with 2 windows at (16, 13) with width 3 and height 6.
+House 0 is a gray House with 1 windows at (16, 13) with width 3 and height 6.
 House 1 is a brown House with 2 windows at (16, 5) with width 3 and height 6.
 A log at (10, 8).
 A mushroom at (7, 9).

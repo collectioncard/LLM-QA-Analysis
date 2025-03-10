@@ -1,9 +1,9 @@
 Question,Answer,Distractors
-"What is the absolute distance from the Target at (14, 0) to the Closed Fence at (16, 9)?",9.85 tiles,8.00 tiles; 9.22 tiles; 7.50 tiles
+"What is the absolute distance from the Target at (14, 0) to the Closed Fence at (16, 9)?",9.22 tiles,8.00 tiles; 9.81 tiles; 7.50 tiles
 "Which object is located at (15, 5)?",Mushroom,Closed Fence; Single Fence Line; Bucket
 What are the coordinates of the Orange Tree?,"(3, 4)","(7, 13); (15, 5); (14, 0)"
 How many mushrooms are present in the described area?,2,1; 3; 4
-"Which object is located directly to the left of the Bucket at (14, 6)?",Mushroom,Orange Tree; Closed Fence; Target
+"Which object is located closest to the Bucket at (14, 6)?",Mushroom,Orange Tree; Closed Fence; Target
 What is the height of the Closed Fence?,9 tiles,3 tiles; 6 tiles; 12 tiles
 "Which object is at (7, 13)?",Single Fence Line,Mushroom; Closed Fence; Bucket
 What is the relative position of the Closed Fence to the Single Fence Line?,Diagonally above and to the right,Diagonally below and to the left; Directly above; Directly to the right
@@ -12,11 +12,11 @@ How far apart are the Closed Fence and the Single Fence Line?,9.85 tiles,8.50 ti
 "Which object is closest to the coordinates (17, 9)?",Closed Fence,"Mushroom at (15, 5); Single Fence Line; Orange Tree"
 What is the structure and location of the fenced area?,"Closed occupied area at (16, 9)","Open area at (17, 9); Single fence at (7, 13); Bucket at (14, 6)"
 "Which object is located at (14, 6)?",Bucket empty,Closed Fence; Single Fence Line; Mushroom
-"Which object is furthest away from the target at (14, 0)?","Mushroom at (0, 1)",Closed Fence; Orange Tree; Bucket
-What is the combined vertical height of the Single Fence Line compared to the height of the Closed Fence?,Not enough information,Equal; Shorter; Taller
-"Which object is located to the right side of (14, 0)?",Bucket,Mushroom; Orange Tree; Closed Fence
-"Is there an object at coordinates (15, 6)?",Nothing,Mushroom; Bucket; Closed Fence
+"Which object is furthest away from the target at (14, 0)?",Single Fence Line,Closed Fence; Orange Tree; Bucket
+What is the combined height of the single line fence and closed fenced area,Not enough information,13; 90; 4
+"Which object is located directly below (14, 0)?",Bucket,Mushroom; Orange Tree; Closed Fence
+"Is there an object at coordinates (15, 6)?",No,Mushroom; Bucket; Closed Fence
 What is the width of the Closed Fence?,3 tiles,6 tiles; 9 tiles; 12 tiles
-Which object is above the Single Fence Line?,Nothing,Closed Fence; Bucket; Target
-"What point does the path connect at (17, 9)?",Closed Fence,Target; Single Fence Line; Orange Tree
+Which object is directly above the Single Fence Line?,Nothing,Closed Fence; Bucket; Target
+How many objects are on the map total?,7,5; 8; 6
 How many fences are present in the area described?,2,1; 3; 0

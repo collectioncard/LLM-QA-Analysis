@@ -5,18 +5,18 @@ Which object is located directly below House 1?,House 0,"Closed Fence at (1, 6);
 "What is the distance from the Closed Fence at (8, 1) to House 1 at (16, 5)?",8.94 tiles,14.42 tiles; 5.10 tiles; 16.55 tiles
 Which object is located directly above House 0?,House 1,"Forest 0; Closed Fence at (1, 6); Nothing"
 What coordinates are the orange tree located at?,"(14, 12)","(10, 8); (8, 12); (4, 3)"
-How many windows does House 0 have?,2,1; 3; 4
-Which object is in the same row as House 1?,"Closed Fence at (1, 6)","House 0; Mushroom at (7, 9); Log at (10, 8)"
+How many windows does House 0 have?,1,0; 3; 4
+Which object is almost the same y level as House 1?,"Closed Fence at (1, 6)","House 0; Mushroom at (7, 9); Log at (10, 8)"
 Which log is closest to House 0?,"Log at (11, 12)","Log at (10, 8); Log at (8, 12); Log at (0, 4)"
 "What is the distance from Forest 0 to the Closed Fence at (1, 6)?",5.10 tiles,12.81 tiles; 17.09 tiles; 8.94 tiles
-"Which object is diagonally below the Closed Fence at (8, 1)?",House 0,"Forest 0; House 1; Mushroom at (7, 9)"
-"How many logs are located at (10, 8) and (11, 12)?",2,1; 3; 4
+"Which object is the furthest diagonally below and to the right of the Closed Fence at (8, 1)?",House 0,"Forest 0; House 1; Mushroom at (7, 9)"
+How many logs are on the map?,4,1; 3; 2
 "What is the relative position of Closed Fence at (1, 6) to House 1?",Left,Above; Below; Right
 What color is House 1?,Brown,Gray; Green; Orange
 "What is the distance between House 0 and the Closed Fence at (1, 6)?",16.55 tiles,8.94 tiles; 14.42 tiles; 5.10 tiles
 How many trees are mentioned in the data set?,2,1; 3; 4
 "Which object is located directly below the log at (10, 8)?","Beehive at (10, 9)","Orange tree at (14, 12); House 1; Nothing"
 "What is the distance from House 1 to the log at (10, 8)?",6.71,8.94 tiles; 5.10 tiles; 16.55 tiles
-"What direction does House 0 face relative to Closed Fence at (8, 1)?",Diagonally below and to the right,Diagonally above and to the left; Right; Above
+"What direction is House 0 relative to Closed Fence at (8, 1)?",Diagonally below and to the right,Diagonally above and to the left; Right; Above
 "Which object is located closer to the coordinates (10, 8)?","Beehive at (10, 9)","Mushroom at (7, 9); Log at (8, 12); Nothing"
 Is the mushroom closer to House 0 or House 1?,House 1,House 0; Same distance to both; Nothing

@@ -1,14 +1,14 @@
 Question,Answer,Distractors
 What is the relative position of House 0 in relation to the L-shaped Fence?,House 0 is to the left of the L-shaped Fence.,House 0 is above the L-shaped Fence.; House 0 is below the L-shaped Fence.; House 0 is to the right of the L-shaped Fence.
 What is the absolute distance from House 1 to the Single Fence Line?,10.63 tiles.,11.31 tiles; 7.62 tiles; 8.25 tiles
-Which object is diagonally above and to the left of the L-shaped Fence?,House 1.,House 0; Closed Fence; Forest 0
+Which object is diagonally above and to the left of the L-shaped Fence?,House 1.,House 0; Beehive; Forest 0
 What is the width of the L-shaped Fence?,5,4; 6; 7
 What is the position of the Closed Fence on the map?,"(8, 2).","(10, 8); (12, 0); (4, 11)"
 Which House has one window?,House 0 and House 1 both have one window each.,House 0 only; House 1 only; Neither House
 "What object is located at (6, 8)?",Wheelbarrow.,Bucket; House 0; Forest 0
 How many tiles is the L-shaped Fence away from the Forest 0?,15.03 tiles.,11.05 tiles; 17.80 tiles; 7.62 tiles
-Which two objects are diagonally below House 0?,Single Fence Line and L-shaped Fence.,Closed Fence and Forest 0; House 1 and Forest 0; Mushroom and Wheelbarrow
-Which object is directly below Forest 0?,Single Line Fence,L-shaped Fence; House 0; Closed Fence
+Which object is diagonally below House 0?,None,Closed Fence; Forest 0; Mushroom
+Which object is closest and directly below Forest 0?,Single Line Fence,L-shaped Fence; House 0; Closed Fence
 What is the absolute distance between Closed Fence and House 1?,6.08 tiles.,4.47 tiles; 10.05 tiles; 7.62 tiles
 "If you start at (2, 1), which object is the furthest distance away?",L-shaped Fence.,Single Fence Line; House 0; Closed Fence
 How is the L-shaped Fence positioned in relation to the Single Fence Line?,The L-shaped Fence is diagonally below and to the right of the Single Fence Line.,The L-shaped Fence is above the Single Fence Line.; The L-shaped Fence is to the left of the Single Fence Line.; The L-shaped Fence is directly to the right of the Single Fence Line.
@@ -19,4 +19,4 @@ How many windows does House 1 have?,1 window.,2 windows; 0 windows; 3 windows
 "Which object is located at (4, 11)?",Wheelbarrow.,Mushroom; House 0; Bucket
 What is the absolute distance from the Closed Fence to the L-shaped Fence?,13.93 tiles.,15.23 tiles; 7.62 tiles; 6.32 tiles
 What is the position of House 0 on the map?,"(2, 16).","(2, 1); (8, 2); (10, 8)"
-What object is diagonally below and to the right of the Closed Fence?,L Shaped Fence,House 0; House 1; L-shaped Fence
+What object is diagonally below and to the right of the Closed Fence?,L Shaped Fence,House 0; House 1; Bucket

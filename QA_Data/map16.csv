@@ -1,9 +1,9 @@
 Question,Answer,Distractors
 What is the absolute distance between Forest 0 and the Single Fence Line?,4.12 tiles,8.06 tiles; 15.03 tiles; 9.43 tiles
-"Which object is located diagonally above and to the left of Closed Fence at (6, 8)?","Closed Fence at (1, 8)",Forest 1; Single Fence Line; Forest 0
+"Which object is located to the left of Closed Fence at (6, 8)?","Closed Fence at (1, 8)",Forest 1; Single Fence Line; Forest 0
 How far is Forest 1 from the Single Fence Line?,16.28 tiles,4.12 tiles; 15.03 tiles; 8.00 tiles
 "What type of object is located at (1, 19)?",Mushroom,Forest; Closed Fence; Single Fence Line
-"Which object is located at (1, 8)?","Closed Fence at (1, 8)","Closed Fence 6, 16; Single Fence Line; Forest 1"
+"Which object is located at (1, 8)?",Closed Fence,Mushroom; Single Fence Line; Forest 1
 How many tiles wide is Forest 0?,10 tiles,5 tiles; 11 tiles; 3 tiles
 Which forest is located below Forest 1?,Forest 0,"Closed Fence at (6, 8); Single Fence Line; Closed Fence at (1, 8)"
 "What direction does Closed Fence at (1, 8) relate to Forest 0?",Diagonally above and to the left,Diagonally below and to the right; Directly above; Diagonally below and to the left

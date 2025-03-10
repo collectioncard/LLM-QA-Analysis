@@ -1,5 +1,5 @@
 House 0 is a gray House with 5 windows at (12, 13) with width 7 and height 6.
-House 1 is a brown House with 2 windows at (1, 14) with width 5 and height 3.
+House 1 is a brown House with 1 windows at (1, 14) with width 5 and height 3.
 House 2 is a brown House with 2 windows at (8, 7) with width 4 and height 4.
 A single line fence at (1, 8).
 A random L-shaped fence at (13, 1) with width 6 and height 3.

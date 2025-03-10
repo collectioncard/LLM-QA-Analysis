@@ -1,5 +1,5 @@
 A closed fenced-in area, with fences at (15, 16) with width 3 and height 3.
-House 0 is a gray House with 4 windows at (1, 10) with width 4 and height 5.
+House 0 is a gray House with 3 windows at (1, 10) with width 4 and height 5.
 House 1 is a brown House with 1 windows at (16, 2) with width 3 and height 4.
 Forest 0 at (7, 0) with width 8 and height 8.
 Path connecting points: (16, 18) (2, 14) (17, 5) 

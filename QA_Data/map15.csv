@@ -2,20 +2,20 @@ Question,Answer,Distractors
 Which house is located below House 1?,House 0,House 2; Forest 0; Single Fence Line
 What is the distance from House 0 to Forest 0?,9.06 tiles,5.66 tiles; 6.08 tiles; 12.04 tiles
 "Which object is located at (15, 2)?",House 2,Forest 0; House 0; House 1
-Which house has 4 windows?,House 2,House 0; House 1; Forest 0
+Which house has 3 windows?,House 2,House 0; House 1; Forest 0
 Which object is diagonally below and to the left of Single Fence Line?,House 0,House 1; House 2; Forest 0
 What is the height of Forest 0?,5,3; 10; 6
-Which object is to the right of House 0?”,Forest 0,House 1; House 2; Single Fence Line
+Which object is directly to the right of House 0?,Forest 0,House 1; House 2; Single Fence Line
 What is the absolute distance from House 2 to House 1?,9.06 tiles,13.93 tiles; 5.66 tiles; 6.08 tiles
 "Which house is located at (1, 16)?",House 0,House 1; House 2; Forest 0
 What is the width of House 1?,5,3; 4; 8
 Which object is diagonally above and to the left of House 1?,Single Fence Line,House 2; House 0; Forest 0
-Which object is diagonally below and to the right of Single Fence Line?,House 1,Forest 0; House 2; Single Fence Line
+Which house is diagonally below and to the right of Single Fence Line?,House 1,Forest 0; House 2; Single Fence Line
 What is the absolute distance from House 0 to House 2?,19.80 tiles,13.93 tiles; 9.06 tiles; 12.04 tiles
 Which house is identified as gray?,House 0,House 2; Forest 0; Single Fence Line
-Which object is diagonally below and to the left of House 2?,House 0,Forest 0; House 0; Single Fence Line
+Which object is diagonally above and to the left of House 2?,Nothing,Forest 0; House 0; Single Fence Line
 What is the distance from the Single Fence Line to House 0?,6.08 tiles,12.04 tiles; 13.93 tiles; 9.43 tiles
 What is the color of House 2?,Brown,Gray; White; Black
 Which object is farthest from Forest 0?,House 2,House 0; House 1; Single Fence Line
 "Which object is positioned at coordinates (2, 10)?",Single Fence Line,House 0; House 1; Forest 0
-Which house has 3 windows?,House 0,House 1; House 2; Single Fence Line
+What is the total count of windows on evey house?,6,1; 5; 10

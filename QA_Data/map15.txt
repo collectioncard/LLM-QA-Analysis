@@ -1,8 +1,8 @@
 Forest 0 at (10, 15) with width 10 and height 5.
-House 0 is a gray House with 3 windows at (1, 16) with width 8 and height 3.
-House 1 is a gray House with 2 windows at (14, 11) with width 5 and height 3.
+House 0 is a gray House with 2 windows at (1, 16) with width 8 and height 3.
+House 1 is a gray House with 1 windows at (14, 11) with width 5 and height 3.
 A single line fence at (2, 10).
-House 2 is a brown House with 4 windows at (15, 2) with width 4 and height 6.
+House 2 is a brown House with 3 windows at (15, 2) with width 4 and height 6.
 Path connecting points: (3, 18) (16, 13) (17, 7) 
 
 Relationships:

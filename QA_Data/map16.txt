@@ -23,13 +23,13 @@ Relationships for Single Fence Line at (6, 16):
 Relationships for Closed Fence at (6, 8):
 - is diagonally above and to the left of Forest 0 at (10, 15) (distance: 8.06 tiles).
 - is above Single Fence Line at (6, 16) (distance: 8.00 tiles).
-- is diagonally below and to the right of Closed Fence at (1, 8) (distance: 5.00 tiles).
+- is to the right of Closed Fence at (1, 8) (distance: 5.00 tiles).
 - is diagonally below and to the left of Forest 1 at (9, 0) (distance: 8.54 tiles).
 
 Relationships for Closed Fence at (1, 8):
 - is diagonally above and to the left of Forest 0 at (10, 15) (distance: 11.40 tiles).
 - is diagonally above and to the left of Single Fence Line at (6, 16) (distance: 9.43 tiles).
-- is diagonally above and to the left of Closed Fence at (6, 8) (distance: 5.00 tiles).
+- is to the left of Closed Fence at (6, 8) (distance: 5.00 tiles).
 - is diagonally below and to the left of Forest 1 at (9, 0) (distance: 11.31 tiles).
 
 Relationships for Forest 1 at (9, 0):

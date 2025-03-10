@@ -1,18 +1,18 @@
 Question,Answer,Distractors
 "What is the relative position of the beehive compared to the empty bucket at (12, 13)?",The beehive is to the right and slightly above the empty bucket.,The beehive is to the left of the empty bucket.; The beehive is directly above the empty bucket.; The beehive is at the same height as the empty bucket.
-"What is the absolute distance from the target at (12, 19) to the nearest bucket empty at (19, 10)?",Distance is 11.40 tiles.,Distance is 7.00 tiles.; Distance is 5.00 tiles.; Distance is 10.00 tiles.
+"What is the absolute distance from the target at (12, 19) to the rightmost bucket empty?",Distance is 11.40 tiles.,Distance is 7.00 tiles.; Distance is 5.00 tiles.; Distance is 10.00 tiles.
 Which object is located furthest to the south (highest Y coordinate)?,"The target at (12, 19).","The orange tree at (18, 8).; The beehive at (15, 12).; The bucket empty at (12, 13)."
 How many bags are located within the map?,There are 3 bags.,There are 2 bags.; There are 4 bags.; There are 5 bags.
-Which bucket is full and has the lowest Y coordinate?,"The bucket full at (0, 16).","The bucket full at (3, 17).; The bucket empty at (12, 13).; The bucket empty at (19, 10)."
+Which bucket is full and has the lowest Y coordinate?,"The bucket full at (3, 17).","The bucket full at (0, 16).; The bucket empty at (12, 13).; The bucket empty at (19, 10)."
 "What is located at (18, 9)?",A green tree.,A log.; A bag.; An orange tree.
 Which of the following objects is located farthest east?,"The bucket empty at (19, 10).","The beehive at (15, 12).; The bucket full at (3, 17).; The bucket empty at (12, 13)."
-"How can you identify the empty bucket located at (19, 10)?",It is the easternmost empty bucket.,It is the easternmost empty bucket.; It is to the north of the full bucket.; It is next to the beehive.
+"What is true about the empty bucket located at (19, 10)?",It is the easternmost empty bucket.,It is the southernmost empty bucket.; It is directly to the north of a full bucket.; It is directly right of the beehive.
 "Which tree is closest to the bag at (13, 9)?","The green tree at (18, 9).","The orange tree at (18, 8).; The beehive at (15, 12).; The log at (3, 13)."
 What is the width of Forest 0?,Width is 10 tiles.,Width is 6 tiles.; Width is 5 tiles.; Width is 12 tiles.
 "What is the absolute distance from the beehive at (15, 12) to the nearest bag at (13, 9)?",Distance is 3.61 tiles.,Distance is 3.16 tiles.; Distance is 2.00 tiles.; Distance is 1.50 tiles.
 Which bucket is full and has the highest Y coordinate?,"The bucket full at (3, 17).","The bucket full at (0, 16).; The bucket empty at (19, 10).; The bucket empty at (12, 13)."
 What is the height of Forest 1?,Height is 6 tiles.,Height is 10 tiles.; Height is 5 tiles.; Height is 8 tiles.
-Which objects are located diagonally from each other?,"The bag at (4, 13) and the bucket full at (0, 16).","The beehive at (15, 12) and the bucket full at (3, 17).; The orange tree at (18, 8) and the bag at (18, 14).; The green tree at (18, 9) and the empty bucket at (12, 13)."
+Which two objects are directly next to each other?,The bag and the log,The beehive and the target; two full buckets; The beehive and a bag
 "What object is located at (0, 0)?",The Forest 1.,The beehive.; The bucket empty.; The bag.
 "Which object is located at (12, 19)?",The target.,The beehive.; The bag.; The bucket empty.
 What is the relative location of Forest 0 compared to Forest 1?,Forest 0 is to the right of Forest 1.,Forest 0 is above Forest 1.; Forest 0 is below Forest 1.; Forest 0 is to the left of Forest 1.

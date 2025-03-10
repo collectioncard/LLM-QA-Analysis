@@ -1,22 +1,22 @@
-Question,Answer,Distractors
+ Question,Answer,Distractors
 Which object is located directly to the left of the Closed Fence?,House 0,Forest 0; House 1; Beehive
 What is the distance between the Closed Fence and House 1?,18.60 tiles,9.49 tiles; 10.30 tiles; 8.00 tiles
-How many windows does House 0 have?,1 window,2 windows; 3 windows; None
-Which object is below Forest 0?,Closed Fence,House 0; House 1; Beehive
+How many windows does House 0 have?,0 windows,2 windows; 3 windows; 1 window
+Which object is directly below Forest 0?,Closed Fence,House 0; House 1; Beehive
 What is the width of the Forest 0?,11 tiles,8 tiles; 9 tiles; 10 tiles
 Identify the coordinates of House 1.,"(1, 1)","(4, 16); (9, 3); (12, 16)"
-What is directly above the Closed Fence?,Forest 0,House 0; House 1; Beehive
+What is directly above the Closed Fence?,Forest 0,House 0; House 1; Target
 What is the distance between House 0 and Forest 0?,10.30 tiles,8.00 tiles; 9.49 tiles; 15.30 tiles
 Which House has a gray color?,House 0,House 1; Neither House; Both Houses
 Where is the Beehive located?,"(9, 3)","(12, 16); (5, 18); (1, 1)"
-Which object is diagonally below House 0?,Forest 0,Closed Fence; House 1; Beehive
+Which object is diagonally below House 0?,Nothing,Closed Fence; House 1; Beehive
 What color is House 1?,Brown,Gray; Red; Blue
 What is the height of the Closed Fence?,3 tiles,6 tiles; 4 tiles; 5 tiles
 "Identify the object located at (9, 7).",Forest 0,Closed Fence; House 1; Beehive
 What is the distance from House 1 to Forest 0?,10.00 tiles,9.49 tiles; 8.00 tiles; 15.30 tiles
-Which object is right House 0?,Closed Fence,Forest 0; Beehive; House 1
+Which object is right of House 0?,Closed Fence,Forest 0; Beehive; House 1
 What is the width of the Closed Fence?,6 tiles,3 tiles; 4 tiles; 5 tiles
 How far apart are House 0 and House 1?,15.30 tiles,10.00 tiles; 9.49 tiles; 18.60 tiles
 Which object is furthest to the left based on their coordinates?,House 1,House 0; Closed Fence; Forest 0
-Which of the following objects has 1 window?,Both House 0 and House 1,Only House 0; Only House 1; Neither House
+Which of the following houses have 0 windows?,Both House 0 and House 1,Only House 0; Only House 1; Neither House
 What is the height of House 1?,4 tiles,3 tiles; 5 tiles; 6 tiles

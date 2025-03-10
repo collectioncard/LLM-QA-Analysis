@@ -2,7 +2,7 @@ A closed fenced-in area, with fences at (14, 15) with width 3 and height 4.
 House 0 is a brown House with 1 windows at (12, 10) with width 7 and height 3.
 House 1 is a gray House with 1 windows at (14, 2) with width 4 and height 3.
 A wheelbarrow at (6, 19).
-House 2 is a brown House with 1 windows at (6, 7) with width 3 and height 3.
+House 2 is a brown House with 0 windows at (6, 7) with width 3 and height 3.
 House 3 is a brown House with 0 windows at (1, 16) with width 3 and height 3.
 A log at (2, 11).
 A closed fenced-in area, with fences at (1, 1) with width 8 and height 4.

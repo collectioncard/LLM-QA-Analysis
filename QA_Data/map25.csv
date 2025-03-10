@@ -1,23 +1,23 @@
 Question,Answer,Distractors
 "What is the absolute distance between House 0 at (3, 13) and Forest 0 at (7, 6)?",8.06 tiles,5.10 tiles; 3.00 tiles; 12.50 tiles
 "Which object is located at (19, 12)?",A bucket full,A wheelbarrow; A green tree; A bucket empty
-How many windows does House 0 have?,3 windows,2 windows; 1 window; 4 windows
+How many windows does House 0 have?,2 windows,3 windows; 1 window; 4 windows
 "Relative to Forest 0, where is House 1 located?",Diagonally above and to the left,Diagonally below and to the left; Directly adjacent; Diagonally below and to the right
 "What can be found at coordinates (13, 11)?",A wheelbarrow,A mushroom; A bucket full; An orange tree
 How far is House 1 located from House 0?,8.06 tiles,5.10 tiles; 10.00 tiles; 7.00 tiles
 Which object has a height of 5 tiles?,Forest 0,House 0; House 1; A green tree
 "What is located at (18, 1)?",A bucket full,A green tree; A mushroom; House 0
 "Which type of object is located at (16, 0)?",An orange tree,A green tree; A bucket empty; Forest 0
-"Which bucket is located at (9, 11)?",A bucket full,"A bucket empty; A wheelbarrow; A bucket full at (14, 9)"
+"Which bucket is located at (9, 11)?",A bucket full,A bucket empty; A wheelbarrow; Nothing
 What is the height of House 1?,4 tiles,6 tiles; 5 tiles; 3 tiles
 "Which object has coordinates (11, 12)?",A green tree,A bucket empty; A mushroom; House 0
 How many full buckets are in the map?,4,2; 6; 1
 Which item is directly right of the position of the orange tree?,A bucket empty,Forest 0; House 1; A bucket full
 What is the width of House 0?,3 tiles,4 tiles; 5 tiles; 2 tiles
 What is the coordinates of the mushroom?,"(9, 3)","(8, 3); (9, 2); (3, 3)"
-Which object is located diagonally below and to the right of House 1?,A bucket full,House 0; Nothing; An orange tree
+Which object is located diagonally below and to the right of House 1?,A bucket full,Mushroom; Nothing; An orange tree
 "What is located at (17, 0)?",A bucket empty,A mushroom; A green tree; A bucket full
-Which object is not a bucket?,A wheelbarrow,A bucket full; A bucket empty; A house
+Which object is not a bucket?,"The item at (13,11)","A bucket full; A bucket empty; The item at position (19,12)"
 "What is the closest object to the green tree at (18, 18)?","A bucket full at (19, 12)","Forest 0; House 0; A bucket full at (18, 1)"
 "How far is the bucket full at (14, 9) from the wheelbarrow at (13, 11)?",2.24 tiles,2.00 tiles; 3.16 tiles; 1.12 tiles
 What is the absolute distance between House 0 and House 1?,8.06 tiles,5.10 tiles; 10.24 tiles; 6.00 tiles

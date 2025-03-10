@@ -9,13 +9,13 @@ What is the relative position of Closed Fence to Single Fence Line?,Diagonally a
 How far is Forest 1 from the Closed Fence?,16.16 tiles,15.52 tiles; 20.52 tiles; 10.00 tiles
 "Which forest is located at (0, 10)?",Forest 0,Forest 1; Closed Fence; Single Fence Line
 What is the distance between Forest 1 and the Single Fence Line?,20.52 tiles,14.87 tiles; 15.52 tiles; 10.00 tiles
-Which object is diagonally below and to the left of the Single Fence Line?,Closed Fence,Forest 0; Forest 1; Nothing
+Which object is diagonally below and to the left of the Single Fence Line?,nothing,Forest 0; Forest 1; Beehive
 How many tiles separate Forest 1 and Forest 0 vertically?,10.00 tiles,14.87 tiles; 15.52 tiles; 20.52 tiles
 What is the distance from Single Fence Line to Closed Fence?,9.06 tiles,10.00 tiles; 14.87 tiles; 15.52 tiles
-Which object is diagonally below and to the right of Forest 1?,Single Fence,Forest 0; Single Fence; Nothing
-What unique characteristic does the Closed Fence have?,One Entrance and a width of 4 and height of 3,Two entrance; Two exits; Three windows
+Which object is the furthest diagonally below and to the right of Forest 1?,Single Line Fence,Forest 0; Closed Fence; Nothing
+What unique characteristic does the Closed Fence have?,Width of 4 and height of 3,It spans the entire map; A height of 40 units; Three windows
 What is the width of Forest 0?,12,10; 4; 16
-"If you start at (0, 0), which location has the closest distance to get to the Single Fence Line?",Forest 1,Forest 0; Closed Fence; Nothing
+"What object is the closest to (0, 1)",Forest 1,Forest 0; Closed Fence; Nothing
 Which objects are present in the same vertical column as the Single Fence Line?,Nothing,Forest 0; Forest 1; Closed Fence
 What is the height of the Closed Fence?,3,4; 5; 6
 How can you identify the location of Forest 0 on the map?,"It's at (0, 10)","It's at (0, 0); It's at (15, 6); Nothing"

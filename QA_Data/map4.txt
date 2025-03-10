@@ -1,9 +1,9 @@
 Forest 0 at (13, 13) with width 7 and height 7.
 Forest 1 at (8, 11) with width 5 and height 9.
-House 0 is a gray House with 1 windows at (9, 7) with width 3 and height 3.
+House 0 is a gray House with 0 windows at (9, 7) with width 3 and height 3.
 House 1 is a gray House with 3 windows at (1, 8) with width 6 and height 4.
 A orange tree at (13, 1).
-House 2 is a gray House with 2 windows at (7, 1) with width 3 and height 4.
+House 2 is a gray House with 1 windows at (7, 1) with width 3 and height 4.
 Forest 2 at (0, 0) with width 6 and height 6.
 Path connecting points: (10, 9) (5, 11) (8, 4) 
 
