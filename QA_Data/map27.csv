@@ -2,20 +2,20 @@ Question,Answer,Distractors
 Which forest is directly below Forest 2?,Forest 1,Forest 0; House 0; Log
 How far is Forest 0 from House 0?,14.21 tiles,10.30 tiles; 6.00 tiles; 12.00 tiles
 What is the distance between Forest 2 and House 0?,9.06 tiles,10.30 tiles; 6.00 tiles; 14.21 tiles
-Which object is to the right of House 0?,Forest 2,"Forest 1; Log; Target at (3,7)"
-Which objects are located above Forest 1?,Forest 2,Forest 0; House 0; Green tree
+Which object is directly to the right of House 0?,Forest 2,"Forest 1; Log; Target at (3,7)"
+Which object is located above Forest 1?,Forest 2,Forest 0; Target; Green tree
 "Which forest is located at coordinates (10, 12)?",Forest 0,Forest 1; Forest 2; House 0
 How many windows does House 0 have?,0 windows,1 window; 2 windows; 3 windows
 Which target is located directly below House 0?,Both the targets are below Hous 0,"Target at (3,7); Target at (2,9); Bucket full"
 "What is the absolute distance between the log at (5,5) and Forest 1?",5.09 tiles,4.00 tiles; 12.00 tiles; 3.00 tiles
 "Which object is located at (9, 6)?",Bag,Bucket full; Log; Green tree
-What is located diagonally below and to the right of House 0?,Forest 1,Forest 0; Forest 2; Bucket full
-Which forest has the largest vertical distance between it and House 0?,Forest 0,Forest 1; Forest 2; Nothing
+Which forest is the furthest diagonally below and to the right of House 0?,Forest 0,Forest 1; Forest 2; Bucket full
+Which forest has the largest vertical distance between it and House 0?,Forest 0,Forest 1; Forest 2; They are all the same
 What is the width of Forest 1?,10,8; 6; 12
 What color is House 0?,Gray,Green; Brown; Black
 "Which object is the closest to the target at (3,7)?",Green tree,Bucket full; Forest 2; Bag
-What is directly above Forest 0?,Nothing,Forest 1; House 0; Forest 2
+What is directly above Forest 0?,Forest 1,Bucket; House 0; Forest 2
 "Which forest is closest to the log at (5,5)?",Forest 1,Forest 0; Forest 2; House 0
 What is the height of Forest 2?,6,8; 10; 4
-"What is the distance from the green tree at (1,6) to House 0?",3 tiles,nothing; 5 tiles; 1 tile
+"What is the distance from the green tree at (1,6) to House 0?",5 tiles,10 tiles; 3 tiles; 1 tile
 "What object is located at coordinates (9, 9)?",Bucket full,"Target at (3,7); Bag; Green tree"

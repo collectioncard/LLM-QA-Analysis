@@ -3,17 +3,18 @@ import path from "node:path";
 import {AnswerChoice, Question, QuestionSet} from "./DataTypes";
 import csvParser from "csv-parser";
 
-
-//copilot generated code
 function shuffleArray<T>(array: T[]): T[] {
-    const shuffled = [...array]; 
+    const shuffled = [...array];
     for (let i = shuffled.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1)); 
+        const j = Math.floor(Math.random() * (i + 1));
         [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
     }
     return shuffled;
 }
 
+function warn(fileName: string, message: string) {
+    console.warn(`Warning in file "${fileName}": ${message}`);
+}
 
 export async function getQAData(): Promise<QuestionSet[]> {
     let questionData: QuestionSet[] = [];
@@ -39,8 +40,6 @@ export async function getQAData(): Promise<QuestionSet[]> {
                     fs.createReadStream(csvFilePath)
                         .pipe(csvParser())
                         .on('data', (row) => {
-                            
-                            
                             let distractors: string[] = row.Distractors.split('; ');
                             let answers: AnswerChoice[] = distractors.map((distractor, index) => {
                                 return {
@@ -48,23 +47,30 @@ export async function getQAData(): Promise<QuestionSet[]> {
                                     isCorrect: row.Answer === distractor
                                 };
                             });
-                            
+
                             answers.push({
                                 text: row.Answer,
                                 isCorrect: true
-                            })
-                            
-                            //shuffle the answers and assign letters
+                            });
+
+                            if (answers.length !== 4) {
+                                warn(file, `Question "${row.Question}" does not have exactly 4 answers.`);
+                            }
+
+                            const answerTexts = answers.map(answer => answer.text.toLowerCase());
+                            const uniqueAnswerTexts = new Set(answerTexts);
+                            if (uniqueAnswerTexts.size !== answerTexts.length) {
+                                warn(file, `Question "${row.Question}" has repeated answers.`);
+                            }
+
                             answers = shuffleArray(answers);
                             answers.forEach((answer, index) => {
                                 answer.letter = String.fromCharCode(65 + index);
                             });
-                            
-                            
+
                             questions.push({
                                 question: row.Question,
                                 answers: answers,
-                                
                             });
                         })
                         .on('end', () => {

@@ -3,7 +3,6 @@ Forest 0 at (11, 6) with width 9 and height 5.
 A single line fence at (8, 12).
 Forest 1 at (0, 0) with width 11 and height 11.
 
-
 Relationships:
 
 Relationships for Forest 0 at (11, 6):

@@ -16,6 +16,6 @@ Which two objects are directly next to each other?,The bag and the log,The beehi
 "What object is located at (0, 0)?",The Forest 1.,The beehive.; The bucket empty.; The bag.
 "Which object is located at (12, 19)?",The target.,The beehive.; The bag.; The bucket empty.
 What is the relative location of Forest 0 compared to Forest 1?,Forest 0 is to the right of Forest 1.,Forest 0 is above Forest 1.; Forest 0 is below Forest 1.; Forest 0 is to the left of Forest 1.
-Which bag is located furthest north (lowest Y coordinate)?,"The bag at (13, 9).","The bag at (18, 14).; The bag at (13, 9).; The bag at (12, 13)."
+Which bag is located furthest north (lowest Y coordinate)?,"The bag at (13, 9).","The bag at (18, 14).; The bag at (16, 9).; The bag at (12, 13)."
 "Which forest encompasses the coordinate (5, 5)?",Forest 1.,Forest 0.; There is no forest there.; A green tree.
 "What is the method of identifying the empty bucket at (12, 13)?",It is the centermost empty bucket,It is the northernmost bucket.; It is located beside the orange tree.; It is directly south of the target.

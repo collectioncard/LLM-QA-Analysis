@@ -5,7 +5,6 @@ Forest 2 at (9, 0) with width 6 and height 8.
 Forest 3 at (0, 8) with width 9 and height 12.
 A target at (5, 2).
 A bucket empty at (5, 3).
-Path connecting points: (17, 10) 
 
 Relationships:
 

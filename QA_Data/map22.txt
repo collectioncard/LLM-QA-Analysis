@@ -2,7 +2,6 @@ A single line fence at (14, 15).
 Forest 0 at (0, 10) with width 12 and height 10.
 A closed fenced-in area, with fences at (15, 6) with width 4 and height 3.
 Forest 1 at (0, 0) with width 12 and height 10.
-Path connecting points: (17, 6) 
 
 Relationships:
 

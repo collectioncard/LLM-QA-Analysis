@@ -3,7 +3,6 @@ A mushroom at (17, 5).
 A bag at (15, 6).
 A random L-shaped fence at (2, 4) with width 5 and height 3.
 
-
 Relationships:
 
 Relationships for Single Fence Line at (1, 18):

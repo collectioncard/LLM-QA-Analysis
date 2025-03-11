@@ -14,7 +14,7 @@ How many windows does House 3 have?,0 windows,1 window; 2 windows; 3 windows
 "Which house is diagonally below and to the left of House 1 at (14, 2)?",House 2,House 0; House 6; Closed Fence
 "What is the distance from House 3 at (1, 16) to the Closed Fence at (14, 15)?",13.04 tiles,5.39 tiles; 19.10 tiles; 12.53 tiles
 What color is House 0?,Brown,Gray; Green; Red
-"Which house is diagonally below and to the left of House 0 at (12, 10)?",House 3,House 1; House 3; Closed Fence
+"Which house is diagonally below and to the left of House 0 at (12, 10)?",House 3,House 1; House 2; Closed Fence
 "What is the distance between Closed Fence at (1, 1) and House 2 at (6, 7)?",7.81 tiles,14.21 tiles; 10.30 tiles; 8.25 tiles
 "If you start at the Closed Fence at (1, 1), which house is to the right?",House 1,House 0; House 2; House 3
 "What type of object is located at (2, 11)?",Log,Wheelbarrow; House 0; House 1

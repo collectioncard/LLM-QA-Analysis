@@ -8,7 +8,6 @@ A target at (3, 7).
 A target at (2, 9).
 A bucket full at (9, 9).
 House 0 is a gray House with 0 windows at (1, 1) with width 3 and height 3.
-Path connecting points: (2, 3) 
 
 Relationships:
 

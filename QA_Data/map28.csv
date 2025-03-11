@@ -1,11 +1,11 @@
 Question,Answer,Distractors
-"What object is located below the L-shaped fence at (2, 4)?",Single Fence Line,Mushroom; Bag; Nothing
-"How far is the mushroom from the single line fence located at (1, 18)?",20.62 tiles,16.00 tiles; 14.04 tiles; 12.00 tiles; Nothing
-Which two objects have a diagonal spatial relationship with each other?,L-shaped Fence and Single Fence Line,Mushroom and Bag; L-shaped Fence and Mushroom; Single Fence Line and Bag
+"What object is located directly below the L-shaped fence at (2, 4)?",Single Fence Line,Mushroom; Bag; Nothing
+"How far is the mushroom from the single line fence located at (1, 18)?",20.62 tiles,16.00 tiles; 14.04 tiles; 12.00 tiles
+Which two objects have the closest diagonal spatial relationship with each other?,Mushroom and bag,L-shaped Fence and Single Fence Line; L-shaped Fence and Mushroom; Single Fence Line and Bag
 "What is the absolute distance between the bag at (15, 6) and the mushroom at (17, 5)?",2.24 tiles,3.16 tiles; 4.00 tiles; 1.00 tile
 How many total objects are there in the given data set?,4,3; 5; 6
 What coordinates does the L-shaped fence start at?,"(2, 4)","(1, 18); (15, 6); (17, 5)"
-Which object is located at the highest y-coordinate?,Single Fence Line,Mushroom; Bag; L-shaped Fence
+Which object is located at the highest y-coordinate (lowest on map)?,Single Fence Line,Mushroom; Bag; L-shaped Fence
 How many tiles wide is the L-shaped fence?,5 tiles,3 tiles; 4 tiles; 2 tiles
 "Which object is the farthest away from the mushroom at (17, 5)?",Single Fence Line,L-shaped Fence; Bag; Nothing
 What is the y-coordinate of the bag?,6,5; 4; 18
