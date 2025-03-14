@@ -11,7 +11,7 @@ What is the distance from L-shaped Fence to Forest 0?,17.89 tiles,10.05 tiles; 1
 Which object lies diagonally above and to the left of the Closed Fence?,House 0,Forest 0; L-shaped Fence; Nothing
 What is the height of the Forest 0?,8,5; 3; 6
 What is the distance from Closed Fence to House 0?,14.87 tiles,11.05 tiles; 15.13 tiles; 10.30 tiles
-Which object is below House 0?,L-shaped Fence,Forest 0; Beehive; Nothing
+Which object is below House 0?,L-shaped Fence,Forest 0; Mushroom Nothing
 What is the width of House 0?,8,6; 5; 7
 At what coordinates is the L-shaped Fence located?,"(4, 16)","(12, 0); (13, 11); (2, 1)"
 Which object is the closest diagonally below and to the right of House 0?,Closed Fence,Forest 0; L-shaped Fence; Nothing

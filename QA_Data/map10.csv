@@ -6,7 +6,7 @@ Which of the following houses have only one window?,House 0,House 4; House 2; Ho
 "Which closed fence is to the right of House 3 at (1, 16)?","Closed Fence at (14, 15)","Closed Fence at (1, 1); Closed Fence at (12, 10); Closed Fence at (14, 2)"
 "How far is House 2 at (6, 7) from House 0 at (12, 10)?",6.71 tiles,14.21 tiles; 9.43 tiles; 12.53 tiles
 "Which object is located at the coordinate (6, 19)?",Wheelbarrow,Closed Fence; House 0; House 3
-What is the property of House 1?,Gray and has 1 window,Brown with 1 window; Brown with 0 windows; Gray with 0 windows
+What are properties of House 1?,Gray and has 1 window,Brown with 1 window; Brown with 0 windows; Gray with 0 windows
 "Which house is diagonally below and to the right of House 2 at (6, 7)?",House 0,"House 1; House 3; Closed Fence at (1, 1)"
 "What is the distance from House 2 at (6, 7) to the Closed Fence at (1, 1)?",7.81 tiles,5.39 tiles; 19.10 tiles; 9.43 tiles
 How many windows does House 3 have?,0 windows,1 window; 2 windows; 3 windows

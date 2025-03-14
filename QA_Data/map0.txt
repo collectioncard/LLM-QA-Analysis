@@ -13,7 +13,7 @@ Relationships:
 Relationships for Forest 0 at (11, 5):
 - is below Closed Fence at (13, 1) (distance: 4.47 tiles).
 - is diagonally above and to the right of Forest 1 at (5, 11) (distance: 8.49 tiles).
-- is diagonally below and to the right of Closed Fence at (6, 7) (distance: 5.39 tiles).
+- is diagonally above and to the right of Closed Fence at (6, 7) (distance: 5.39 tiles).
 
 Relationships for Closed Fence at (13, 1):
 - is above Forest 0 at (11, 5) (distance: 4.47 tiles).
@@ -26,6 +26,6 @@ Relationships for Forest 1 at (5, 11):
 - is below Closed Fence at (6, 7) (distance: 4.12 tiles).
 
 Relationships for Closed Fence at (6, 7):
-- is diagonally above and to the left of Forest 0 at (11, 5) (distance: 5.39 tiles).
+- is diagonally below and to the left of Forest 0 at (11, 5) (distance: 5.39 tiles).
 - is diagonally below and to the left of Closed Fence at (13, 1) (distance: 9.22 tiles).
 - is above Forest 1 at (5, 11) (distance: 4.12 tiles).

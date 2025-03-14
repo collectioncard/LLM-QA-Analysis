@@ -10,7 +10,7 @@ Which object is directly below House 0?,"Single Fence Line at (8, 7)","Closed Fe
 How can you identify Forest 0?,"It is at (15, 5) and has a width of 5 and height of 7","It is at (15, 5) and has a width of 5 and height of 8; It is located at (0, 16); It is below Closed Fence"
 "What is a correct relationship for the Single Fence Line at (8, 7)?","It is diagonally above and to the left of the Single Fence Line at (18, 14)",It is directly above House 0; It is below Forest 0; Nothing
 What is the distance from the House 0 to the Forest 0?,6.40 tiles,13.60 tiles; 9.06 tiles; 15.30 tiles
-"Which object is diagonally below and to the right of the Single Fence Line at (8, 7)?",Bag,House 0; Forest 1; Nothing
+"Which object is diagonally below and to the left of the Single Fence Line at (8, 7)?",Bag,House 0; Forest 1; Nothing
 "What is the absolute distance between Forest 0 and Single Fence Line at (18, 14)?",9.49 tiles,12.21 tiles; 15.30 tiles; 1 tile
 "Which point connects with 8, 18 in the path?","(11, 3)","(15, 5); (8, 7); (7, 16)"
 How many tiles wide and high is the Closed Fence?,7 width and 3 height,3 width and 7 height; 5 width and 7 height; Nothing

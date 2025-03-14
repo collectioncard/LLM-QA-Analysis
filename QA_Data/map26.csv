@@ -6,7 +6,7 @@ How many windows does House 0 have?,2 windows,1 window; 3 windows; 4 windows
 "What is the distance of Forest 0 from Closed Fence at (13, 6)?",4.12 tiles,6.08 tiles; 10.00 tiles; 12.08 tiles
 "Which object is the closest directly below House 0 at (1, 1)?","Forest 2 at (0, 6)","Closed Fence at (1, 15); Forest 0 at (12, 10); Forest 1 at (12, 0)"
 "What is the width of Closed Fence at (13, 6)?",6 tiles,4 tiles; 5 tiles; 3 tiles
-Which closed fenced area is diagonally below Forest 2?,"Closed Fence at (1, 15)","Closed Fence at (13, 6); No closed fenced area; Forest 1"
+Which closed fenced area is below Forest 2?,"Closed Fence at (1, 15)","Closed Fence at (13, 6); No closed fenced area; Forest 1"
 "What is the distance from Forest 0 at (12, 10) to Forest 1 at (12, 0)?",10.00 tiles,4.12 tiles; 6.08 tiles; 18.60 tiles
 "How far is House 0 from Closed Fence at (13, 6)?",13.00 tiles,5.10 tiles; 14.00 tiles; 11.05 tiles
 "Which of the following is the furthest from Closed Fence at (1, 15)?",Forest 1,Forest 2; Forest 0; House 0

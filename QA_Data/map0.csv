@@ -2,9 +2,9 @@ Question,Answer,Distractors
 "What is the distance between Forest 0 at (11, 5) and the Closed Fence at (13, 1)?",4.47 tiles,8.49 tiles; 12.81 tiles; 5.39 tiles
 "Which object is located directly above Forest 1 at (5, 11)?","Closed Fence at (6, 7)","Forest 0 at (11, 5); Closed Fence at (13, 1); Bucket full at (2, 13)"
 "How far is Forest 1 at (5, 11) from the Closed Fence at (6, 7)?",4.12 tiles,8.49 tiles; 12.81 tiles; 5.39 tiles
-"What object is diagonally below and to the right of the Closed Fence at (6, 7)?","Forest 0 at (11, 5)","Forest 1 at (5, 11); Closed Fence at (13, 1); Nothing"
+"What object is directly below the Closed Fence at (6, 7)?","Forest 1 at (5, 11)","Forest 0 at (11, 5); Closed Fence at (13, 1); Nothing"
 "Which object is located diagonally below and to the left of Forest 0 at (11, 5)?","Forest 1 at (5, 11)","Closed Fence at (6, 7); Closed Fence at (13, 1); Bucket full at (2, 13)"
-"Where is the bucket located in relation to the target at (0, 10)?",Below,Above; Left; Right
+"Where is the bucket located in relation to the target at (0, 10)?",Below and to the right,Directly above; Left; Above and to the right
 "What is the absolute distance between the bucket at (2, 13) and the log at (4, 14)?",2.24 tiles,1.45 tiles; 5.3 tiles; 3.0 tiles
 "Which of the following objects is located south of Forest 0 at (11, 5)?",Nothing,"Closed Fence at (6, 7); Forest 1 at (5, 11); Closed Fence at (13, 1)"
 "What is the width of the fenced-in area at (13,1)?",4,3; 5; 6

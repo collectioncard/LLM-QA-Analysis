@@ -17,6 +17,6 @@ How many tiles does the closed fenced-in area cover horizontally?,4 tiles,3 tile
 "Which object is at coordinates (19, 9)?",Beehive,Closed fenced-in area; Mushroom; Another green tree
 "What is directly below the green tree at (18, 15)?",Nothing,Wheelbarrow; L-shaped Fence; Closed fenced-in area
 What is the height of House 0?,5 tiles,4 tiles; 3 tiles; 6 tiles
-Which object is diagonally above and to the right of the closed fenced-in area?,L-shaped Fence,"House 0; Beehive at (19, 9); Wheelbarrow at (16, 17)"
+Which object is diagonally above and to the left of the closed fenced-in area?,House 0,"L-Shaped Fence; Beehive at (19, 9); Wheelbarrow at (16, 17)"
 "What is to the right of the beehive at (18, 0)?",Nothing,Wheelbarrow; Green tree; Closed fenced-in area
 "What is located directly north of the wheelbarrow at (16, 17)?",Nothing,Closed fenced-in area; Beehive; Another wheelbarrow

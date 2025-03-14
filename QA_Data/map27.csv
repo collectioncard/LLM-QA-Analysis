@@ -7,7 +7,7 @@ Which object is located above Forest 1?,Forest 2,Forest 0; Target; Green tree
 "Which forest is located at coordinates (10, 12)?",Forest 0,Forest 1; Forest 2; House 0
 How many windows does House 0 have?,0 windows,1 window; 2 windows; 3 windows
 Which target is located directly below House 0?,Both the targets are below Hous 0,"Target at (3,7); Target at (2,9); Bucket full"
-"What is the absolute distance between the log at (5,5) and Forest 1?",5.09 tiles,4.00 tiles; 12.00 tiles; 3.00 tiles
+"What is the absolute distance between the log at (5,5) and origin of Forest 1?",8.6 tiles,4.00 tiles; 12.00 tiles; 3.00 tiles
 "Which object is located at (9, 6)?",Bag,Bucket full; Log; Green tree
 Which forest is the furthest diagonally below and to the right of House 0?,Forest 0,Forest 1; Forest 2; Bucket full
 Which forest has the largest vertical distance between it and House 0?,Forest 0,Forest 1; Forest 2; They are all the same

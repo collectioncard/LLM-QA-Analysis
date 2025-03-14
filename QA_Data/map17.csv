@@ -13,7 +13,7 @@ How far apart are the Closed Fence and the Single Fence Line?,9.85 tiles,8.50 ti
 What is the structure and location of the fenced area?,"Closed occupied area at (16, 9)","Open area at (17, 9); Single fence at (7, 13); Bucket at (14, 6)"
 "Which object is located at (14, 6)?",Bucket empty,Closed Fence; Single Fence Line; Mushroom
 "Which object is furthest away from the target at (14, 0)?",Single Fence Line,Closed Fence; Orange Tree; Bucket
-What is the combined height of the single line fence and closed fenced area,Not enough information,13; 90; 4
+"Excluding the fences and mushrooms, how many items are on the map?",3,7; 5; 4
 "Which object is located directly below (14, 0)?",Bucket,Mushroom; Orange Tree; Closed Fence
 "Is there an object at coordinates (15, 6)?",No,Mushroom; Bucket; Closed Fence
 What is the width of the Closed Fence?,3 tiles,6 tiles; 9 tiles; 12 tiles
