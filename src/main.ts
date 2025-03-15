@@ -12,8 +12,9 @@ import cliProgress from "cli-progress";
 dotenv.config();
 
 const supportedModels: LLM[] = [
-    { name: 'gpt-4o-mini', apiUrl: process.env.OPENAI_URL!, apiKey: process.env.OPENAI_API_KEY!, supportsImage : true },
-    { name: "llama3.2:1b", apiUrl: process.env.LOCAL_URL!, apiKey: process.env.LOCAL_KEY! },
+    //{ name: 'gpt-4o-mini', apiUrl: process.env.OPENAI_URL!, apiKey: process.env.OPENAI_API_KEY!, supportsImage : true },
+    //{ name: "llama3.2:1b", apiUrl: process.env.LOCAL_URL!, apiKey: process.env.LOCAL_KEY! },
+    { name: "deepseek-reasoner", apiUrl: process.env.DEEPSEEK_URL!, apiKey: process.env.DEEPSEEK_API_KEY! },
 ];
 
 function formatQuestion(worldFacts: string, question: Question): string {
@@ -132,11 +133,13 @@ async function main() {
             }
             
             let formattedQuestion = formatQuestion(qSet.worldDescription, q);
-            let { parsedResponse: parsedResponse, response: fullResponse } = await getLLMCompletion(apiClient, model, formattedQuestion, imageBase64);
+            let { parsedResponse: parsedResponse, response: fullResponse, reasoningContent: reasoningContent } = await getLLMCompletion(apiClient, model, formattedQuestion, imageBase64);
             
             q.givenFullAnswer = fullResponse;
             
             q.givenParsedAnswer = parsedResponse;
+            q.givenReasoning = reasoningContent;
+            
             q.grade = classifyResponse(parsedResponse, q.answers);
             
             if (q.grade == AnswerType.CORRECT){

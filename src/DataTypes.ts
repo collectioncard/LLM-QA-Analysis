@@ -23,6 +23,7 @@ export interface Question {
     answers: AnswerChoice[];
     givenFullAnswer?: string;
     givenParsedAnswer?: string;
+    givenReasoning?: string;
     grade?: AnswerType;
 }
 

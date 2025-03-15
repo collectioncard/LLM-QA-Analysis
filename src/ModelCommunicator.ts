@@ -1,13 +1,19 @@
 import OpenAI from "openai";
 import {LLM} from "./DataTypes";
 
-const modelPrompt: string = "You are an expert at answering questions about a tile based world. The user will provide you with a in depth description " +
-    "of a tile based game world and a multiple choice question about it. You are to take in the question and provided answers and choose the one that seems the most correct. If a field is given a width or height, the coordinate is the top left corner of it." +
-"Respond with ONLY the letter of the answer you think is correct. NEVER EVER elaborate on your decision or provide reasoning." + "For each wrong answer you will be fined 100 dollars. ";
+const modelPrompt: string =  `
+You are an expert in tile-based game worlds. The user will provide a detailed description of a tile-based world and a multiple-choice question about it. Your task is to analyze the question and available answers, then select the most correct option.
+
+- If a field has a specified width or height, its coordinates represent the top-left corner.
+- Respond ONLY with the letter of the correct answer.
+- If reasoning is necessary, enclose it in <think></think> tags. Otherwise, output ONLY the answer letter.
+- Each incorrect answer results in a $100 fine.
+`.trim();
 
 export async function getLLMCompletion(Client: OpenAI, LLMInfo: LLM, question: string, imageBase64?: string): Promise<{
     parsedResponse: string;
     response: string
+    reasoningContent?: string;
 }> {
     const messages: any[] = [
         {
@@ -40,8 +46,15 @@ export async function getLLMCompletion(Client: OpenAI, LLMInfo: LLM, question: s
         response = "No Answer Provided";
     }
     
+    let reasoningContent: string | undefined;
+    //TODO: Refine this
+    if (completion.choices[0].message.reasoning_content) {
+        reasoningContent = completion.choices[0].message.reasoning_content;
+    }
+    
+    
     //strip out any data between <think> tags
     let parsedResponse = response.replace(/<think>.*?<\/think>/g, '');
     
-    return {parsedResponse, response};
+    return {parsedResponse, response, reasoningContent};
 }
