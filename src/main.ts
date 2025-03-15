@@ -120,7 +120,7 @@ async function main() {
         
         for (const q of qSet.questions) {
             //skip questions that have already been answered
-            if (q.givenAnswer && q.grade) {
+            if (q.givenParsedAnswer && q.grade) {
                 numTested++;
                 if (q.grade == AnswerType.CORRECT){
                     numCorrect++;
@@ -132,10 +132,12 @@ async function main() {
             }
             
             let formattedQuestion = formatQuestion(qSet.worldDescription, q);
-            let llmResponse = await getLLMCompletion(apiClient, model, formattedQuestion, imageBase64);
+            let { parsedResponse: parsedResponse, response: fullResponse } = await getLLMCompletion(apiClient, model, formattedQuestion, imageBase64);
             
-            q.givenAnswer = llmResponse;
-            q.grade = classifyResponse(llmResponse, q.answers);
+            q.givenFullAnswer = fullResponse;
+            
+            q.givenParsedAnswer = parsedResponse;
+            q.grade = classifyResponse(parsedResponse, q.answers);
             
             if (q.grade == AnswerType.CORRECT){
                 numCorrect++;

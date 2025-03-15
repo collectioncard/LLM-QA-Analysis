@@ -17,12 +17,12 @@ export enum AnswerType {
     UNDETERMINED = "UNDETERMINED"
 }
 
-
 //Represents an individual question in a set
 export interface Question {
     question: string;
     answers: AnswerChoice[];
-    givenAnswer?: string;
+    givenFullAnswer?: string;
+    givenParsedAnswer?: string;
     grade?: AnswerType;
 }
 
@@ -31,11 +31,4 @@ export interface QuestionSet {
     imageName: string;
     worldDescription: string;
     questions: Question[];
-}
-
-export enum answerMap {
-    A = 0,
-    B = 1,
-    C = 2,
-    D = 3
 }
