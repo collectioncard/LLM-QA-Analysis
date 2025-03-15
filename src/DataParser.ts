@@ -40,6 +40,11 @@ export async function getQAData(): Promise<QuestionSet[]> {
                     fs.createReadStream(csvFilePath)
                         .pipe(csvParser())
                         .on('data', (row) => {
+                            if (!row.Question) {
+                                warn(file, `A question is missing the question data.`);
+                                return;
+                            }
+
                             let distractors: string[] = row.Distractors.split('; ');
                             let answers: AnswerChoice[] = distractors.map((distractor, index) => {
                                 return {
